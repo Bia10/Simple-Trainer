@@ -1,0 +1,557 @@
+5000000 - Brown Kitty
+5000001 - Brown Puppy
+5000002 - Pink Bunny
+5000003 - Mini Kargo
+5000004 - Black Kitty
+5000005 - White Bunny
+5000006 - Husky
+5000007 - Black Pig
+5000008 - Panda
+5000009 - Dino Boy
+5000010 - Dino Girl
+5000011 - Monkey
+5000012 - White Tiger
+5000013 - Elephant
+5000014 - Rudolph
+5000015 - Dasher
+5000017 - Robot
+5000018 - Husky
+5000020 - Mini Yeti
+5000021 - Monkey
+5000022 - Turkey
+5000023 - Penguin
+5000024 - Jr. Balrog
+5000025 - Golden Pig
+5000026 - Sun Wu Kong
+5000028 - Dragon
+5000029 - Baby Dragon
+5000030 - Green Dragon
+5000031 - Red Dragon
+5000032 - Blue Dragon
+5000033 - Black Dragon
+5000034 - Black Bunny
+5000036 - Jr. Reaper
+5000037 - Husky
+5000038 - White Monkey
+5000039 - Porcupine
+5000040 - Jr. Reaper
+5000041 - Snowman
+5000042 - Kino
+5000043 - Hedgehog
+5000044 - Orange Tiger
+5000045 - Skunk
+5000046 - Kino
+5000047 - Robo
+5000048 - Baby Robo
+5000049 - Blue Robo
+5000050 - Red Robo
+5000051 - Green Robo
+5000052 - Gold Robo
+5000053 - Gorilla Robo
+5000054 - Snail
+5000055 - Crys.Rudolph
+5000056 - Toucan
+5000058 - White Duck
+5000060 - Pink Bean
+5000064 - Golden Pig
+5000065 - White Duck
+5000066 - Baby Tiger
+5000067 - Weird Alien
+5000068 - Baby Tiger
+5000070 - Mir
+5000071 - Ruby
+5000072 - Skunk
+5000074 - Bing Monkey
+5000076 - Corgi Pup
+5000078 - Monkey
+5000079 - Black Kitty
+5000080 - Penguin
+5000082 - Baby Tiger
+5000083 - Persian Cat
+5000084 - Esel
+5000085 - Cake
+5000086 - Pie
+5000087 - Black Bunny
+5000088 - Black Bunny
+5000089 - Tiel
+5000090 - Galiel
+5000091 - Esel
+5000092 - Tiel
+5000093 - Galiel
+5000096 - Dummbo
+5000098 - Shark
+5000100 - Kino
+5000101 - White Tiger
+5000102 - Mini Yeti
+5000103 - Chroma Bean
+5000105 - Baby Tiger
+5000106 - Ruby
+5000107 - Black Pig
+5000108 - Cake
+5000109 - Pie
+5000110 - Corgi Pup
+5000111 - Persian Cat
+5000114 - Rudolph
+5000116 - Jr. Reaper
+5000117 - White Bunny
+5000118 - Mir
+5000120 - Tiel
+5000121 - Esel
+5000122 - Galiel
+5000130 - Metus
+5000131 - Mors
+5000132 - Invidia
+5000133 - Storm Dragon
+5000134 - Fennec Fox
+5000135 - Gingerbready
+5000136 - Ice Knight
+5000138 - Merlion Pet
+5000139 - Butterfly
+5000141 - Shark
+5000142 - Puffram
+5000143 - Craw
+5000144 - Adriano
+5000145 - Bonkey
+5000146 - Harp Seal
+5000147 - Penguin
+5000148 - White Duck
+5000149 - Silver Husky
+5000150 - Pink Yeti
+5000151 - Bandit
+5000152 - Miracle Cat
+5000155 - Abel
+5000156 - Axel
+5000161 - Pink
+5000162 - Aaron
+5000163 - Mint
+5000167 - Starwing
+5000168 - Stickman
+5000170 - PSY
+5000171 - MagiCookie
+5000172 - Mini Yeti
+5000176 - Kangaroo
+5000193 - Von Soup
+5000194 - Pink Bunny
+5000195 - Black Bunny
+5000197 - Sassy Snake
+5000198 - Lil Moonbeam
+5000199 - Adel
+5000201 - Pink Bean
+5000202 - Corgi Pup
+5000203 - Craw
+5000204 - Adriano
+5000205 - Bonkey
+5000206 - Fennec Fox
+5000207 - Corgi Pup
+5000209 - Storm Dragon
+5000210 - Penguin
+5000211 - Scurvy Bird
+5000212 - Metus
+5000213 - Mors
+5000214 - Invidia
+5000215 - Chunky
+5000216 - Brown Burro
+5000217 - Blackheart
+5000221 - Harp Seal
+5000225 - Puffram
+5000228 - Demon Metus
+5000229 - Demon Mors
+5000230 - Invidia
+5000231 - Demon Metus
+5000232 - Demon Mors
+5000233 - Invidia
+5000234 - Metus
+5000235 - Mors
+5000236 - Invidia
+5000237 - Starwing
+5000238 - Baby Tiger
+5000239 - Shark
+5000240 - Pink Bean
+5000241 - Puffram
+5000243 - Pink Dragon
+5000244 - Ice Dragon
+5000245 - Red Dragon
+5000246 - Chroma Bean
+5000249 - Fluffy Teddy
+5000250 - Cutie Teddy
+5000251 - Puffy Teddy
+5000254 - Red Elly
+5000255 - Blue Burro
+5000256 - Pumpkin Jack
+5000257 - Pumpkin Zack
+5000258 - Pumpkin Mack
+5000261 - Royal Thumpy
+5000262 - Merlion
+5000263 - Butterfly
+5000264 - Kangaroo
+5000265 - Crys.Rudolph
+5000266 - Pink Bean
+5000269 - Hedgehog
+5000270 - Fennec Fox
+5000271 - Frumpy Koala
+5000272 - Grumpy Koala
+5000273 - Nerdy Koala
+5000275 - Chippermunk
+5000276 - Chipmunch
+5000277 - Chubmunk
+5000281 - Vile Metus
+5000282 - Dire Mors
+5000283 - Wild Invidia
+5000290 - Honey Angel
+5000291 - Lime Angel
+5000292 - Peach Angel
+5000293 - Roo-A
+5000294 - Roo-B
+5000295 - Roo-C
+5000296 - Toasty Devil
+5000297 - Icy Devil
+5000298 - Miasma Devil
+5000299 - Gingerhead
+5000300 - Devil Ipos
+5000301 - Devil Shaz
+5000302 - Devil Ose
+5000303 - Devil Iros
+5000304 - Devil Maz
+5000305 - Devil Fose
+5000306 - Devil Imos
+5000307 - Devil Gaz
+5000308 - Devil Tose
+5000309 - Mini Queen
+5000310 - Von Bon
+5000311 - Pierre
+5000312 - Blue Dragon
+5000314 - Sun Wu Kong
+5000315 - Husky
+5000316 - Sassy Snake
+5000317 - Ice Knight
+5000318 - Yeti Robot
+5000320 - Pinkadillo
+5000321 - Yellowdillo
+5000322 - Greenadillo
+5000328 - Von Soup
+5000329 - Red Dragon
+5000330 - Jr. Von Leon
+5000331 - Jr. Orchid
+5000332 - Jr. Hilla
+5000337 - PSY
+5000341 - Punchyroo
+5000342 - Unripe Nut
+5000343 - Chestnut
+5000344 - Burnt Nut
+5000345 - Tiny Gollux
+5000352 - White Candle
+5000353 - Blue Candle
+5000354 - Grape Candle
+5000362 - RED Rudolph
+5000363 - RED Yeti
+5000364 - RED Penguin
+5000365 - Kiwi Puff
+5000366 - Berry Puff
+5000367 - Mango Puff
+5000368 - Happy Bean
+5000369 - Li'l Lai
+5000370 - Li'l Fort
+5000371 - L'il Arby
+5000375 - Pink Pengy
+5000376 - Purple Pengy
+5000377 - Blue Pengy
+5000381 - Toto
+5000382 - Frankie
+5000383 - Lil Moonbeam
+5000384 - Petite Mario
+5000385 - Abel
+5000386 - Axel
+5000387 - Adel
+5000402 - Ballet Lyn
+5000403 - Soldier Hong
+5000404 - Soldier Chun
+5000405 - Green Chad
+5000406 - Pink Mel
+5000407 - Orange Leon
+5000408 - Jr. Sierra
+5000409 - Jr. Ryan
+5000414 - Lil' Bobble
+5000415 - Lil' Lotus
+5000416 - Ill Orchid
+5000417 - Gelimer
+5000424 - Sheep
+5000428 - Holoyeti
+5000429 - Pink Seal
+5000430 - New Seal
+5000431 - Newer Seal
+5000432 - Pinker Seal
+5000433 - War Sheep
+5000434 - Mage Sheep
+5000435 - Cleric Sheep
+5000437 - Orange
+5000442 - Gelimer
+5000443 - Furry Elwin
+5000444 - Fluffy Lily
+5000445 - Baby Nero
+5000446 - Strawbear
+5000447 - Bananabear
+5000448 - Cookiebear
+5000449 - Gengerbready
+5000451 - Gorilla Robo
+5000452 - Squishy Bean
+5000456 - Macha Man
+5000457 - Lady Hot Tea
+5000458 - Captain Cafe
+5000459 - Black Kitty
+5000460 - Sailor Seal
+5000461 - Admiral Seal
+5000462 - Steward Seal
+5000463 - Burnt Nut
+5000464 - Gingerhead
+5000465 - Orange
+5000466 - Ducky
+5000468 - Starwing
+5000469 - Tiny Nero
+5000470 - Cheesy Cat
+5000471 - Samson Cat
+5000473 - Little Ursus
+5000474 - Moist Cake
+5000475 - Nutty Pie
+5000476 - Sweet Candy
+5000479 - Lil Zakum
+5000480 - Ice Dragon
+5000482 - Galiel
+5000483 - Mouse Monkey
+5000484 - Lil Evan
+5000485 - Lil Aran
+5000486 - Lil Phantom
+5000490 - Lil Luminous
+5000491 - Lil Mercedes
+5000492 - Lil Shade
+5000493 - Persian Cat
+5000494 - Lil Damien
+5000495 - Lil Alicia
+5000496 - Lil Lilin
+5000497 - Invidia
+5000498 - Fennec Fox
+5000499 - Stickman
+5000500 - Turkey
+5000501 - Pumpkin Jack
+5000502 - Pumpkin O'
+5000503 - Pumpkin L
+5000505 - Frankie
+5000507 - Blue Husky
+5000508 - Crys.Rudolph
+5000509 - Snowman
+5000510 - Fluffram
+5000511 - Jr. Von Leon
+5000512 - Jr. Orchid
+5000513 - Jr. Hilla
+5000514 - Macha Man
+5000515 - Lady Hot Tea
+5000516 - Captain Cafe
+5000517 - Hekaton
+5000518 - Hekaton S
+5000519 - Hekaton E
+5000520 - Hekaton A
+5000521 - Lil' Ninja
+5000522 - Toucan
+5000524 - Alpaca
+5000525 - Lil' Lotus
+5000526 - Ill Orchid
+5000527 - Gelimer
+5000528 - Meerkat Mob
+5000529 - Pudgycat
+5000530 - War Sheep
+5000531 - Mage Sheep
+5000532 - Cleric Sheep
+5000533 - Furry Elwin
+5000534 - Fluffy Lily
+5000535 - Baby Nero
+5000536 - Strawbear
+5000537 - Bananabear
+5000538 - Cookiebear
+5000545 - Black Bean
+5000546 - Skunk
+5000547 - Porcupine
+5000548 - Roo-A
+5000549 - Roo-B
+5000550 - Roo-C
+5000551 - Pink Dragon
+5000552 - Ice Dragon
+5000553 - Red Dragon
+5000554 - Kiwi Puff
+5000555 - Berry Puff
+5000556 - Mango Puff
+5000557 - Tiny Nero
+5000558 - Cheesy Cat
+5000559 - Samson Cat
+5000561 - Monkey
+5000563 - Mouse Monkey
+5000565 - Cloud Candy
+5000566 - Mossy Candy
+5000567 - Pinkie Candy
+5000568 - Purple Cake
+5000569 - Stjartmes
+5000570 - Lil Tutu
+5000571 - Lil Nene
+5000572 - Lil Lingling
+5000573 - Lil Evan
+5000574 - Lil Aran
+5000575 - Lil Phantom
+5000576 - Lil Luminous
+5000577 - Lil Mercedes
+5000578 - Lil Shade
+5000579 - Gorilla Robo
+5000580 - Lil Damien
+5000581 - Lil Alicia
+5000582 - Lil Lilin
+5000585 - Lil Tengu
+5000586 - Beagle
+5000587 - Salem Cat
+5000588 - Binx Cat
+5000589 - Kit Cat
+5000590 - Bichon
+5000591 - Yodeling Hen
+5000592 - Gold Chicken
+5000593 - Royal Thumpy
+5000594 - Hedgehog
+5000595 - Yellow Chick
+5000596 - Lil Tutu
+5000597 - Lil Nene
+5000598 - Lil Lingling
+5000600 - Ursie
+5000601 - Punch Cat
+5000602 - Iron Rabbit
+5000604 - Brown Kitty
+5000605 - Lil Zakum
+5000606 - Stjartmes
+5000607 - Lil Tutu
+5000608 - Lil Nene
+5000609 - Lil Lingling
+5000610 - Moist Cake
+5000611 - Purple Cake
+5000612 - Lil Moonbeam
+5000613 - Jr. Hilla
+5000614 - Jr. Orchid
+5000615 - Jr. Von Leon
+5000617 - Stjartmes
+5000618 - Stjartmes
+5000620 - Sheepdog
+5000621 - Samoyed
+5000622 - Retriever
+5000623 - Esel
+5000624 - Pink Bearcat
+5000626 - Lil Damien
+5000627 - Lil Alicia
+5000628 - Lil Lilin
+5000629 - Merlion Pet
+5000630 - Toucan
+5000631 - Lil Tengu
+5000632 - Beagle
+5000633 - Fondue Fold
+5000634 - Sasha Fold
+5000635 - Coco Fold
+5000636 - Salem Cat
+5000637 - Binx Cat
+5000638 - Kit Cat
+5000639 - Bichon
+5000640 - Gold Bearcat
+5000641 - Ebony Lucid
+5000642 - Powder Lucid
+5000643 - Rose Lucid
+5000644 - Craw
+5000645 - Adriano
+5000646 - Bonkey
+5000647 - Mage Sheep
+5000648 - War Sheep
+5000649 - Cleric Sheep
+5000650 - Furry Elwin
+5000651 - Fluffy Lily
+5000652 - Baby Nero
+5000653 - Yodeling Hen
+5000654 - Pumpkin Jack
+5000655 - Pumpkin Zack
+5000656 - Pumpkin Mack
+5000657 - Kiwi Puff
+5000658 - Berry Puff
+5000659 - Mango Puff
+5000660 - Chroma Bean
+5000661 - Frankie
+5000662 - Tiel
+5000663 - Esel
+5000664 - Galiel
+5000665 - Lil' Lotus
+5000666 - Ill Orchid
+5000667 - Gelimer
+5000668 - Black Bean
+5000669 - Roo-A
+5000670 - Roo-B
+5000671 - Roo-C
+5000672 - Apple Orchid
+5000673 - Mango Orchid
+5000674 - Ocean Orchid
+5000675 - Lil Zakum
+5000676 - Tiny Nero
+5000677 - Cheesy Cat
+5000678 - Samson Cat
+5000679 - Sailor Seal
+5000680 - Admiral Seal
+5000681 - Steward Seal
+5000682 - Snowman
+5000683 - Silver Husky
+5000684 - Blue Husky
+5000685 - Mini Chicken
+5000686 - Gold Chicken
+5000687 - Moist Cake
+5000688 - Nutty Pie
+5000689 - Sweet Candy
+5000690 - Cloud Candy
+5000691 - Mossy Candy
+5000692 - Pinkie Candy
+5000693 - Ebony Lucid
+5000694 - Powder Lucid
+5000695 - Rose Lucid
+5000696 - Fried Shrimp
+5000697 - Vampire Cat
+5000698 - Fluffy Teddy
+5000699 - Cutie Teddy
+5000700 - Puffy Teddy
+5000701 - Sheepdog
+5000702 - Samoyed
+5000703 - Retriever
+5000704 - Pinkadillo
+5000705 - Yellowdillo
+5000706 - Greenadillo
+5000710 - Chippermunk
+5000711 - Chipmunch
+5000712 - Chubmunk
+5000713 - Fondue Fold
+5000714 - Sasha Fold
+5000715 - Coco Fold
+5000716 - Lil' Ninja
+5000717 - Royal Thumpy
+5000718 - White Alpaca
+5000719 - Brown Alpaca
+5000720 - Weird Alpaca
+5000724 - Vile Metus
+5000725 - Dire Mors
+5000726 - Wild Invidia
+5000730 - Li'l Lai
+5000731 - Li'l Fort
+5000732 - L'il Arby
+5000739 - Ebony Lucid
+5000744 - Alpaca
+5001000 - Demon Lux
+5001001 - Demon Tempus
+5001002 - Demon Vita
+5001003 - Devil Lux
+5001004 - Devil Tempus
+5001005 - Devil Vita
+5001006 - Miho
+5001007 - Miho
+5001008 - Miho
+5001009 - Spirit Miho
+5001010 - Spirit Miho
+5001011 - Spirit Miho
+5001018 - Miho
+5001019 - Miho
+5001020 - Miho
+5001021 - Spirit Miho
+5001022 - Spirit Miho
+5001023 - Spirit Miho
