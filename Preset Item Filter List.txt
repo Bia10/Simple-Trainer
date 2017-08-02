@@ -1,0 +1,293 @@
+This list is hard coded in and cannot be changed from within the trainer. Use the customizable Item Filter instead.
+
+    dd #1003797 // Royal Warrior Helm
+    dd #1003798 // Royal Dunwitch Hat
+    dd #1003799 // Royal Ranger Beret
+    dd #1003800 // Royal Assassin Hood
+    dd #1003801 // Royal Wanderer Hat
+    dd #1003976 // Sweetwater Hat
+    dd #1042254 // Eagle Eye Warrior Armor
+    dd #1042255 // Eagle Eye Dunwitch Robe
+    dd #1042256 // Eagle Eye Ranger Cowl
+    dd #1042257 // Eagle Eye Assassin Shirt
+    dd #1042258 // Eagle Eye Wanderer Coat
+    dd #1052669 // Sweetwater Suit
+    dd #1062165 // Trixter Warrior Pants
+    dd #1062166 // Trixter Dunwitch Pants
+    dd #1062167 // Trixter Ranger Pants
+    dd #1062168 // Trixter Assassin Pants
+    dd #1062169 // Trixter Wanderer Pants
+    dd #1072743 // Tyrant Hyades Boots
+    dd #1072744 // Tyrant Hermes Boots
+    dd #1072745 // Tyrant Charon Boots
+    dd #1072746 // Tyrant Lycaon Boots
+    dd #1072747 // Tyrant Altair Boots
+    dd #1072870 // Sweetwater Shoes
+    dd #1082556 // Sweetwater Gloves
+    dd #1102481 // Tyrant Hyades Cloak
+    dd #1102482 // Tyrant Hermes Cloak
+    dd #1102483 // Tyrant Charon Cloak
+    dd #1102484 // Tyrant Lycaon Cloak
+    dd #1102485 // Tyrant Altair Cloak
+    dd #1102623 // Sweetwater Cape
+    dd #1122264 // Cracked Engraved Gollux Pendant
+    dd #1122265 // Solid Engraved Gollux Pendant
+    dd #1122266 // Reinforced Engraved Gollux Pendant
+    dd #1122267 // Superior Engraved Gollux Pendant
+    dd #1132174 // Tyrant Hyades Belt
+    dd #1132175 // Tyrant Hermes Belt
+    dd #1132176 // Tyrant Charon Belt
+    dd #1132177 // Tyrant Lycaon Belt
+    dd #1132178 // Tyrant Altair Belt
+    dd #1132243 // Cracked Engraved Gollux Belt
+    dd #1132244 // Solid Engraved Gollux Belt
+    dd #1132245 // Reinforced Engraved Gollux Belt
+    dd #1132246 // Superior Engraved Gollux Belt
+    dd #1132247 // Sweetwater Belt
+    dd #1152160 // Sweetwater Shoulder
+    dd #1212063 // Fafnir Mana Cradle
+    dd #1222058 // Fafnir Angelic Shooter
+    dd #1232057 // Fafnir Death Bringer
+    dd #1242060 // Fafnir Split Edge
+    dd #1242061 // Fafnir Split Edge
+    dd #1252015 // Fafnir Scepter
+    dd #1262016 // Fafnir Psy-limiter
+    dd #1302275 // Fafnir Mistilteinn
+    dd #1312153 // Fafnir Twin Cleaver
+    dd #1322203 // Fafnir Guardian Hammer
+    dd #1332225 // Fafnir Damascus
+    dd #1342082 // Fafnir Rapid Edge
+    dd #1362090 // Fafnir Claire Ciel
+    dd #1372177 // Fafnir Mana Taker
+    dd #1382208 // Fafnir Mana Crown
+    dd #1402196 // Fafnir Penitent Tears
+    dd #1412135 // Fafnir Battle Cleaver
+    dd #1422140 // Fafnir Lightning Striker
+    dd #1432167 // Fafnir Brionak
+    dd #1442223 // Fafnir Moon Glaive
+    dd #1452205 // Fafnir Wind Chaser
+    dd #1462193 // Fafnir Windwing Shooter
+    dd #1472214 // Fafnir Risk Holder
+    dd #1482168 // Fafnir Perry Talon
+    dd #1492179 // Fafnir Zeliska
+    dd #1522094 // Fafnir Dual Windwing
+    dd #1532098 // Fafnir Lost Cannon
+    dd #1542063 // Fafnir Raven Ring
+    dd #1552063 // Fafnir Indigo Flash
+    dd #1582016 // Fafnir Big Mountain
+    dd #1712000 // Arcane Symbol
+    dd #1712001 // Arcane Symbol: Vanishing Journey
+    dd #1712002 // Arcane Symbol: Chu Chu Island
+    dd #1712003 // Arcane Symbol: Lachelein
+    dd #2048905 // Root Abyss (Warrior) Lucky Item Scroll
+    dd #2049002 // Clean Slate 5% 1
+    dd #2049004 // Clean Slate Scroll 10%
+    dd #2049009 // Clean Slate Scroll 10%
+    dd #2049010 // Clean Slate 5% 2
+    dd #2049011 // Clean Slate Scroll 10%
+    dd #2049018 // Clean Slate Scroll 10%
+    dd #2049019 // Clean Slate 5% 3
+    dd #2049022 // Clean Slate Scroll 10%
+    dd #2049026 // Clean Slate 5% 4
+    dd #2049408 // Potential Scroll
+    dd #2049416 // Potential Scroll
+    dd #2049449 // Potential Scroll
+    dd #2430690 // [Pet Box] Blackheart
+    dd #2430692 // Nebulite box
+    dd #2431174 // Medal of Honor
+    dd #2431655 // Spirit of Rock's Soul Shard
+    dd #2431656 // Prison Guard Ani's Soul Shard
+    dd #2431657 // Dragon Rider's Soul Shard
+    dd #2431658 // Rex's Soul Shard
+    dd #2431659 // Mu Gong's Soul Shard
+    dd #2431660 // Balrog's Soul Shard
+    dd #2431661 // Pink Bean's Soul Shard
+    dd #2431662 // Von Leon Soul Shard
+    dd #2431709 // Xerxes's Soul Shard
+    dd #2431710 // Zakum's Soul Shard
+    dd #2431711 // Cygnus's Soul Shard
+    dd #2431752 // Ephenia's Soul Shard
+    dd #2431753 // Arkarium's Soul Shard
+    dd #2431895 // Pianus's Soul Shard
+    dd #2431896 // Hilla's Soul Shard
+    dd #2431963 // Black Slime's Soul Shard
+    dd #2431964 // Magnus's Soul Shard
+    dd #2431974 // Anti-magic Stone Piece
+    dd #2431998 // Anti-magic Stone Piece
+    dd #2431999 // Anti-magic Stone Piece
+    dd #2432000 // Anti-magic Container (I.M.S.)
+    dd #2432001 // Anti-magic Stone Piece
+    dd #2432002 // Anti-magic Container (I.M.S.)
+    dd #2432091 // Gollux's Head Teleport Rock
+    dd #2432138 // Murgoth's Soul Shard
+    dd #2432336 // Sealed Cubic Blade
+    dd #2432337 // Sealed Cubic Chaos Blade
+    dd #2432575 // Black Knight's Soul Shard
+    dd #2432576 // Mad Mage's Soul Shard
+    dd #2432577 // Rampant Cyborg's Soul Shard
+    dd #2432578 // Vicious Hunter Soul Shard
+    dd #2432579 // Bad Brawler's Soul Shard
+    dd #2432970 // Special Medal of Honor
+    dd #2433103 // Boss Medal of Honor
+    dd #2433446 // Pierre's Soul Shard
+    dd #2433457 // Grand Medal of Honor
+    dd #2433515 // Von Bon's Soul Shard
+    dd #2433591 // Crimson Queen's Soul Shard
+    dd #2433592 // Vellum's Soul Shard
+    dd #2433593 // Lotus's Soul Shard
+    dd #2433808 // Special Medal of Honor
+    dd #2433834 // Rare Treasure Chest
+    dd #2433844 // Gold Dragon Soul Shard
+    dd #2433845 // Red Tiger Soul Shard
+    dd #2433926 // Regular Medal of Honor
+    dd #2433943 // Spell Trace
+    dd #2434021 // Medal of Honor
+    dd #2434288 // Special Medal of Honor
+    dd #2434470 // Ursus Soul Shard
+    dd #2434502 // Ursus Medal of Honor
+    dd #2434584 // PoT
+    dd #2435031 // Pink Mong Soul Shard
+    dd #2435369 // Damien's Soul Shard
+    dd #2435718 // Hi-Five Box
+    dd #2435719 // Nodestone
+    dd #2435733 // Nodestone Fragment
+    dd #2435824 // V-Box
+    dd #2435902 // Nodestone
+    dd #2436039 // Lucid's Soul Shard
+    dd #2436272 // Special Medal of Honor
+    dd #2436324 // Nodestone
+    dd #2436487 // Chinese New Year Gift Bag
+    dd #2511106 // Angelic Blessing Recipe
+    dd #2511107 // Dark Angelic Blessing Recipe
+    dd #2531000 // Protection Scroll 2
+    dd #2531001 // Protection Scroll 3
+    dd #2531004 // Protection Scroll 5
+    dd #2531005 // Protection Scroll 4
+    dd #2531007 // Protection Scroll 6
+    dd #2532000 // Safety Scroll 1
+    dd #2532002 // Safety Scroll 3
+    dd #2532003 // Safety Scroll 4
+    dd #2532005 // Safety Scroll 2
+    dd #2590004 // Prototype Soul Enchanter
+    dd #2590005 // Prototype Soul Enchanter
+    dd #2590006 // Production Soul Enchanter
+    dd #2590007 // Production Soul Enchanter
+    dd #2590008 // Customized Soul Enchanter
+    dd #2590009 // Customized Soul Enchanter
+    dd #2590010 // Customized Soul Enchanter
+    dd #2590014 // Production Soul Enchanter
+    dd #2710002 // Master Craftsman's Cube 2
+    dd #2710003 // Meister's Cube 2
+    dd #2710004 // Meister's Cube 3
+    dd #2710007 // Master Craftsman's Cube 4
+    dd #2711003 // Master Craftsman's Cube 1
+    dd #2711004 // Meister's Cube 1
+    dd #2711005 // Master Craftsman's Cube 3
+    dd #2711006 // Meister's Cube 4
+    dd #4000999 // Spell Trace
+    dd #4001473 // Christmas Tree Decoration
+    dd #4001832 // Spell Trace
+    dd #4001842 // Diffusion-Line Energy Core (Grade A)
+    dd #4001843 // Extraordinary Energy Core (Grade S)
+    dd #4001868 // Faint Stigma Spirit Stone
+    dd #4001869 // Twisted Stigma Spirit Stone
+    dd #4001878 // Arcane River Droplet Stone
+    dd #4001879 // Butterfly Droplet Stone
+    dd #4009096 // PoT
+    dd #4020009 // PoT
+    dd #4021019 // Dream Stone
+    dd #4021020 // Confusion Fragment
+    dd #4021021 // Philosopher's Stone
+    dd #4021031 // Twisted time
+    dd #4021041 // Cubic Blade
+    dd #4021042 // Cubic Chaos Blade
+    dd #4031160 // Medal of Honor
+    dd #4034922 // Happy Erdas Sample
+    dd #4034923 // Raging Erdas Sample
+    dd #4034924 // Sad Erdas Sample
+    dd #4034925 // Joyful Erdas Sample
+    dd #4034926 // Stone Erdas Sample
+    dd #4034927 // Blazing Erdas Sample
+    dd #4034928 // Soulful Erdas Sample
+    dd #4034929 // Tranquil Erdas Sample
+    dd #4034930 // Lantern of Erdas Sample
+    dd #4034934 // Oblivion Inhibitor
+    dd #4034935 // Extinction Inhibitor
+    dd #4034936 // Repose Inhibitor
+    dd #4310058 // Magnus Coin
+    dd #4310097 // Gollux Coin
+    dd #4310098 // Gollux Penny
+    dd #5530555 // Clean Slate Scroll 10%
+    dd #5530620 // Protection Scroll 1
+    dd #4034875 // Demon Sword
+    dd #4034876 // Demon Axe
+    dd #4034877 // Demon Shield
+    dd #4034878 // Demon Wolf Fang
+    dd #4034914 // Happy Memory
+    dd #4034915 // Raging Memory
+    dd #4034916 // Sad Memory
+    dd #4034917 // Joyful Memory
+    dd #4034918 // Solid Claw
+    dd #4034919 // Sticky Oil
+    dd #4034920 // Hard Shell
+    dd #4034921 // Tranquil Solvent
+    dd #2435856 // Sweet Hoof
+    dd #2435857 // Spicy Hoof
+    dd #2435858 // Greasy Peel
+    dd #2435859 // Sour Peel
+    dd #2435860 // Fresh Mane
+    dd #2435861 // Zesty Mane
+    dd #2435862 // Soft Sole
+    dd #2435863 // Chewy Sole
+    dd #2435864 // Savory Fin
+    dd #2435865 // Tart Fins
+    dd #2435866 // Crunchy Shell
+    dd #2435867 // Soft Shell
+    dd #2435868 // Slimy Feather
+    dd #2435869 // Sticky Feather
+    dd #2435870 // Unpleasant Talon
+    dd #2435871 // Chewy Talon
+    dd #2435872 // Slurpy Fruit
+    dd #4034942 // Sweet Hoof
+    dd #4034943 // Spicy Hoof
+    dd #4034944 // Greasy Peel
+    dd #4034945 // Sour Peel
+    dd #4034946 // Fresh Mane
+    dd #4034947 // Zesty Mane
+    dd #4034948 // Soft Sole
+    dd #4034949 // Chewy Sole
+    dd #4034950 // Savory Fin
+    dd #4034951 // Tart Fins
+    dd #4034952 // Crunchy Shell
+    dd #4034953 // Soft Shell
+    dd #4034954 // Slimy Feather
+    dd #4034955 // Sticky Feather
+    dd #4034956 // Unpleasant Talon
+    dd #4034957 // Chewy Talon
+    dd #4034958 // Slurpy Fruit
+    dd #2436527 // Override Box
+    dd #4310018 // Crusader Coin
+    dd #4310029 // Crusader Coins
+    dd #2000005 // Power Elixir
+    dd #2000019 // Power Elixir
+    dd #2000032 // Power Elixir
+    dd #2000044 // Power Elixir
+    dd #2001505 // Power Elixir
+    dd #2001594 // Power Elixir
+    dd #2002013 // Power Elixir
+    dd #2022176 // Power Elixir
+    dd #2022457 // Power Elixir
+    dd #2022720 // Power Elixir
+    dd #2023236 // Power Elixir
+    dd #2870295 // Big Spider Familiar
+    dd #2870452 // Mutant Snail Familiar
+    dd #2870455 // Mutant Ribbon Pig Familiar
+    dd #4001857 // Tang Dynasty Horseback Riding Doll
+    dd #1202173 // Horseback Riding Doll Totem
+    dd #4001858 // Qing Dynasty Jade Kettle
+    dd #1202174 // Jade Kettle Totem
+    dd #4001859 // Ming Dynasty Bronze Incense Burner
+    dd #1202175 // Bronze Incense Burner Totem
+    dd #4310075 // Oda Coin
+    dd #4009380 // OMNI-CLN Component
+    dd #2433209 // Sengoku School Bag
