@@ -89,6 +89,7 @@ This list is hard coded in and cannot be changed from within the trainer. Use th
     dd #2049019 // Clean Slate 5% 3
     dd #2049022 // Clean Slate Scroll 10%
     dd #2049026 // Clean Slate 5% 4
+    dd #2049401 // Potential Scroll
     dd #2049408 // Potential Scroll
     dd #2049416 // Potential Scroll
     dd #2049449 // Potential Scroll
