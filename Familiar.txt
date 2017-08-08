@@ -1,685 +1,685 @@
-0097fa40 // Snail Familiar
-0097fa41 // Blue Snail Familiar
-0097fa42 // Shroom Familiar
-0097fa43 // Stump Familiar
-0097fa44 // Red Snail Familiar
-0097fa45 // Potted Sprout Familiar
-0097fa46 // Potted Morning Glory Familiar
-0097fa47 // Grape Juice Bottle Familiar
-0097fa48 // Slime Familiar
-0097fa49 // Green Mushroom Familiar
-0097fa4a // Dark Stump Familiar
-0097fa4b // Dejected Green Mushroom Familiar
-0097fa4c // Octopus Familiar
-0097fa4d // Axe Stump Familiar
-0097fa4e // Ghost Stump Familiar
-0097fa4f // Smirking Ghost Stump Familiar
-0097fa50 // Patrol Robot Familiar
-0097fa51 // Strange Sign Familiar
-0097fa52 // Serpent Familiar
-0097fa53 // Pig Familiar
-0097fa54 // Ribbon Pig Familiar
-0097fa55 // Orange Mushroom Familiar
-0097fa56 // Bubbling Familiar
-0097fa57 // Blue Ribbon Pig Familiar
-0097fa58 // Strange Pig Familiar
-0097fa59 // Desert Rabbit (F) Familiar
-0097fa5a // Desert Rabbit (M) Familiar
-0097fa5b // Jr. Cactus Familiar
-0097fa5c // Cactus Familiar
-0097fa5d // Royal Cactus Familiar
-0097fa5e // Bellamoa Familiar
-0097fa5f // Ear Plug Plead Familiar
-0097fa60 // Scarf Plead Familiar
-0097fa61 // Meerkat Familiar
-0097fa62 // Horny Mushroom Familiar
-0097fa63 // Scorpion Familiar
-0097fa64 // Dark Axe Stump Familiar
-0097fa65 // Jr. Necki Familiar
-0097fa66 // Water Thief Monster Familiar
-0097fa67 // Dust Box Familiar
-0097fa68 // Streetlight Familiar
-0097fa69 // Patrol Robot S Familiar
-0097fa6a // Mano Familiar
-0097fa6b // Blue Mushroom Familiar
-0097fa6c // Crying Blue Mushroom Familiar
-0097fa6d // Evil Eye Familiar
-0097fa6e // Zombie Mushroom Familiar
-0097fa6f // Wild Boar Familiar
-0097fa70 // Seacle Familiar
-0097fa71 // Cico Familiar
-0097fa72 // Krappy Familiar
-0097fa73 // Pinboom Familiar
-0097fa74 // Bubble Fish Familiar
-0097fa75 // Wooden Mask Familiar
-0097fa76 // Rocky Mask Familiar
-0097fa77 // Terrified Wild Boar Familiar
-0097fa78 // Surgeon Eye Familiar
-0097fa79 // Muddy Swamp Monster Familiar
-0097fa7a // Annoyed Zombie Mushroom Familiar
-0097fa7b // Flower Fish Familiar
-0097fa7c // Stirge Familiar
-0097fa7d // Sentinel Familiar
-0097fa7e // Fairy Familiar
-0097fa7f // Brown Teddy Familiar
-0097fa80 // Krip Familiar
-0097fa81 // Royal Fairy Familiar
-0097fa82 // Sand Dwarf Familiar
-0097fa83 // Kiyo Familiar
-0097fa84 // Ligator Familiar
-0097fa85 // Pink Teddy Familiar
-0097fa86 // Ratz Familiar
-0097fa87 // Cube Slime Familiar
-0097fa88 // Dark Sand Dwarf Familiar
-0097fa89 // Rumo Familiar
-0097fa8a // Triple Rumo Familiar
-0097fa8b // Safety First Familiar
-0097fa8c // Baby Boulder Muncher Familiar
-0097fa8d // Big Boulder Muncher Familiar
-0097fa8e // Fire Boar Familiar
-0097fa8f // Jr. Cellion Familiar
-0097fa90 // Jr. Lioner Familiar
-0097fa91 // Jr. Grupin Familiar
-0097fa92 // Panda Teddy Familiar
-0097fa93 // Roloduck Familiar
-0097fa94 // Black Ratz Familiar
-0097fa95 // Helly Familiar
-0097fa96 // Tick Familiar
-0097fa97 // Retz Familiar
-0097fa98 // Scuba Pepe Familiar
-0097fa99 // Lupin Familiar
-0097fa9a // Stumpy Familiar
-0097fa9b // Deo Familiar
-0097fa9c // Curse Eye Familiar
-0097fa9d // Jr. Wraith Familiar
-0097fa9e // Lorang Familiar
-0097fa9f // King Bloctopus Familiar
-0097faa0 // Mask Fish Familiar
-0097faa1 // Star Pixie Familiar
-0097faa2 // Jr. Boogie Familiar
-0097faa3 // Bloctopus Familiar
-0097faa4 // Propelly Familiar
-0097faa5 // Planey Familiar
-0097faa6 // Toy Trojan Familiar
-0097faa7 // Chronos Familiar
-0097faa8 // Chirppy Familiar
-0097faa9 // Tweeter Familiar
-0097faaa // Drumming Bunny Familiar
-0097faab // Jr. Seal Familiar
-0097faac // Renegade Spores Familiar
-0097faad // Poison Mushroom Familiar
-0097faae // Intoxicated Pig Familiar
-0097faaf // Helmet Pepe Familiar
-0097fab0 // Royal Guard Pepe Familiar
-0097fab1 // Grey Yeti and King Pepe Familiar
-0097fab2 // Gold Yeti and King Pepe Familiar
-0097fab3 // White Yeti and King Pepe Familiar
-0097fab4 // Prime Minister Familiar
-0097fab5 // Cherry Bubble Tea Familiar
-0097fab6 // Mango Bubble Tea Familiar
-0097fab7 // Melon Bubble Tea Familiar
-0097fab8 // Yeti Doll Claw Game Familiar
-0097fab9 // Jr. Pepe Doll Claw Game Familiar
-0097faba // Transformed Doll Claw Game Familiar
-0097fabb // Transformed Doll Claw Game Familiar
-0097fabc // Iron Mutae Familiar
-0097fabd // Reinforced Iron Mutae Familiar
-0097fabe // Mithril mutae Familiar
-0097fabf // Copper Drake Familiar
-0097fac0 // Tortie Familiar
-0097fac1 // Rombot Familiar
-0097fac2 // Seruf Familiar
-0097fac3 // Cold Eye Familiar
-0097fac4 // Zombie Lupin Familiar
-0097fac5 // Wraith Familiar
-0097fac6 // Iron Hog Familiar
-0097fac7 // Clang Familiar
-0097fac8 // Lunar Pixie Familiar
-0097fac9 // Flyeye Familiar
-0097faca // Jr. Cerebes Familiar
-0097facb // Block Golem Familiar
-0097facc // King Block Golem Familiar
-0097facd // Robo Familiar
-0097face // Master Robo Familiar
-0097facf // Tick-Tock Familiar
-0097fad0 // Platoon Chronos Familiar
-0097fad1 // Master Chronos Familiar
-0097fad2 // Barnard Gray Familiar
-0097fad3 // Zeta Gray Familiar
-0097fad4 // Ultra Gray Familiar
-0097fad5 // Mateon Familiar
-0097fad6 // Plateon Familiar
-0097fad7 // Mecateon Familiar
-0097fad8 // Sparker Familiar
-0097fad9 // Freezer Familiar
-0097fada // Skeledog Familiar
-0097fadb // Mummydog Familiar
-0097fadc // Poopa Familiar
-0097fadd // Poison Poopa Familiar
-0097fade // Moon Bunny Familiar
-0097fadf // Iron Boar Familiar
-0097fae0 // Chipmunk Familiar
-0097fae1 // Red Porky Familiar
-0097fae2 // Black Porky Familiar
-0097fae3 // Blue Flower Serpent Familiar
-0097fae4 // Red Flower Serpent Familiar
-0097fae5 // Jar Familiar
-0097fae6 // Ginseng Jar Familiar
-0097fae7 // Desert Giant Familiar
-0097fae8 // Chief Gray Familiar
-0097fae9 // Mossy Snail Familiar
-0097faea // Tree Rod Familiar
-0097faeb // Blue Perfume Familiar
-0097faec // Yellow Perfume Familiar
-0097faed // Pink Perfume Familiar
-0097faee // Kid Mannequin Familiar
-0097faef // Female Mannequin Familiar
-0097faf0 // Male Mannequin Familiar
-0097faf1 // Latest Hits Compilation Familiar
-0097faf2 // Greatest Oldies Familiar
-0097faf3 // Cheap Amplifier Familiar
-0097faf4 // Fancy Amplifier Familiar
-0097faf5 // Spirit of Rock Familiar
-0097faf6 // Shade Familiar
-0097faf7 // Master Dummy Familiar
-0097faf8 // Jr. Yeti Familiar
-0097faf9 // Hodori Familiar
-0097fafa // Samiho Familiar
-0097fafb // Hogul Familiar
-0097fafc // Reinforced Mithril Mutae Familiar
-0097fafd // Roid Familiar
-0097fafe // Neo Huroid Familiar
-0097faff // Luster Pixie Familiar
-0097fb00 // Cellion Familiar
-0097fb01 // Lioner Familiar
-0097fb02 // Grupin Familiar
-0097fb03 // MT-09 Familiar
-0097fb04 // Grizzly Familiar
-0097fb05 // Bellflower Root Familiar
-0097fb06 // Sr. Bellflower Root Familiar
-0097fb07 // Straw Target Dummy Familiar
-0097fb08 // Wooden Target Dummy Familiar
-0097fb09 // Reindeer Familiar
-0097fb0a // The Book Ghost Familiar
-0097fb0b // Drake Familiar
-0097fb0c // Stone Golem Familiar
-0097fb0d // Dark Stone Golem Familiar
-0097fb0e // Croco Familiar
-0097fb0f // Hector Familiar
-0097fb10 // Dark Jr. Yeti Familiar
-0097fb11 // Coolie Zombie Familiar
-0097fb12 // Miner Zombie Familiar
-0097fb13 // White Fang Familiar
-0097fb14 // Mixed Golem Familiar
-0097fb15 // Skeleton Soldier Familiar
-0097fb16 // Jr. Sentinel Familiar
-0097fb17 // Ice Sentinel Familiar
-0097fb18 // Fire Sentinel Familiar
-0097fb19 // King Clang Familiar
-0097fb1a // Faust Familiar
-0097fb1b // Timer Familiar
-0097fb1c // Orange Mushroom Familiar
-0097fb1d // Mossy Mushroom Familiar
-0097fb1e // Stone Bug Familiar
-0097fb1f // Primitive Boar Familiar
-0097fb20 // Leatty Familiar
-0097fb21 // Dark Leatty Familiar
-0097fb22 // Malady Familiar
-0097fb23 // Jr. Pepe Familiar
-0097fb24 // Riche Familiar
-0097fb25 // Snow Witch Familiar
-0097fb26 // Bamboo Warrior Familiar
-0097fb27 // Scholar Ghost Familiar
-0097fb28 // Rurumo Familiar
-0097fb29 // Homun Familiar
-0097fb2a // Saitie Familiar
-0097fb2b // Red Drake Familiar
-0097fb2c // Mushmom Familiar
-0097fb2d // Separated Pepe Familiar
-0097fb2e // Boogie Familiar
-0097fb2f // Buffy Familiar
-0097fb30 // Morphed Blin Familiar
-0097fb31 // Panda Familiar
-0097fb32 // Mr. Alli Familiar
-0097fb33 // Peach Monkey Familiar
-0097fb34 // Kru Familiar
-0097fb35 // Sage Cat Familiar
-0097fb36 // Guard Robot Familiar
-0097fb37 // Dyle Familiar
-0097fb38 // Zeno Familiar
-0097fb39 // Wild Kargo Familiar
-0097fb3a // Puco Familiar
-0097fb3b // Dark Pepe Familiar
-0097fb3c // Lazy Buffy Familiar
-0097fb3d // Soul Teddy Familiar
-0097fb3e // Jr. Lucida Familiar
-0097fb3f // Master Soul Teddy Familiar
-0097fb40 // Ice Drake Familiar
-0097fb41 // Dark Drake Familiar
-0097fb42 // Officer Skeleton Familiar
-0097fb43 // Yeti Familiar
-0097fb44 // Punco Familiar
-0097fb45 // Pachu Familiar
-0097fb46 // Zombie Mushmom Familiar
-0097fb47 // Buffoon Familiar
-0097fb48 // Dark Yeti Familiar
-0097fb49 // Cuzco Familiar
-0097fb4a // Opachu Familiar
-0097fb4b // Baby Balrog Familiar
-0097fb4c // Deep Buffoon Familiar
-0097fb4d // Security Camera Familiar
-0097fb4e // D. Roy Familiar
-0097fb4f // Homunculus Familiar
-0097fb50 // Lucida Familiar
-0097fb51 // Cerebes Familiar
-0097fb52 // Beetle Familiar
-0097fb53 // Dual Beetle Familiar
-0097fb54 // Hankie Familiar
-0097fb55 // Death Teddy Familiar
-0097fb56 // Goby Familiar
-0097fb57 // Tauromacis Familiar
-0097fb58 // Taurospear Familiar
-0097fb59 // Yeti and Pepe Familiar
-0097fb5a // Commander Skeleton Familiar
-0097fb5b // Captain Familiar
-0097fb5c // Werewolf Familiar
-0097fb5d // Master Death Teddy Familiar
-0097fb5e // Yellow King Goblin Familiar
-0097fb5f // Blue King Goblin Familiar
-0097fb60 // Green King Goblin Familiar
-0097fb61 // Rash Familiar
-0097fb62 // Dark Rash Familiar
-0097fb63 // Hobi Familiar
-0097fb64 // Green Hobi Familiar
-0097fb65 // Ghost Pirate Familiar
-0097fb66 // Racoco Familiar
-0097fb67 // Big Spider Familiar
-0097fb68 // Cart Bear Familiar
-0097fb69 // Racaroni Familiar
-0097fb6a // Guard Robot L Familiar
-0097fb6b // Dual Ghost Pirate Familiar
-0097fb6c // Tae Roon Familiar
-0097fb6d // Nine-Tailed Fox Familiar
-0097fb6e // King Sage Cat Familiar
-0097fb6f // Deet and Roi Familiar
-0097fb70 // Raco Familiar
-0097fb71 // Security System Familiar
-0097fb72 // Enhanced Security System Familiar
-0097fb73 // AF Android Familiar
-0097fb74 // Broken DF Android Familiar
-0097fb75 // Ore Muncher Familiar
-0097fb76 // Homunscullo Familiar
-0097fb77 // Jr. Balrog Familiar
-0097fb78 // Lycanthrope Familiar
-0097fb79 // Harp Familiar
-0097fb7a // Blood Harp Familiar
-0097fb7b // Dark Yeti and Pepe Familiar
-0097fb7c // Black Kentaurus Familiar
-0097fb7d // Red Kentaurus Familiar
-0097fb7e // Blue Kentaurus Familiar
-0097fb7f // Birk Familiar
-0097fb80 // Dual Birk Familiar
-0097fb81 // Klock Familiar
-0097fb82 // Dark Klock Familiar
-0097fb83 // Bain Familiar
-0097fb84 // Bone Fish Familiar
-0097fb85 // Blue Dragon Turtle Familiar
-0097fb86 // Red Dragon Turtle Familiar
-0097fb87 // Rexton Familiar
-0097fb88 // Brexton Familiar
-0097fb89 // Spirit Viking Familiar
-0097fb8a // Gigantic Spirit Viking Familiar
-0097fb8b // Squid Familiar
-0097fb8c // Phantom Watch Familiar
-0097fb8d // Risell Squid Familiar
-0097fb8e // Grim Phantom Watch Familiar
-0097fb8f // Crimson Balrog Familiar
-0097fb90 // Shark Familiar
-0097fb91 // Cold Shark Familiar
-0097fb92 // Green Cornian Familiar
-0097fb93 // Dark Cornian Familiar
-0097fb94 // Red Wyvern Familiar
-0097fb95 // Blue Wyvern Familiar
-0097fb96 // Dark Wyvern Familiar
-0097fb97 // Gatekeeper Familiar
-0097fb98 // Thanatos Familiar
-0097fb99 // Manon Familiar
-0097fb9a // Griffey Familiar
-0097fb9b // Nest Golem Familiar
-0097fb9c // Skelegon Familiar
-0097fb9d // Skelosaurus Familiar
-0097fb9e // Eye of Time Familiar
-0097fb9f // Memory Monk Familiar
-0097fba0 // Memory Monk Trainee Familiar
-0097fba1 // Memory Guardian Familiar
-0097fba2 // Chief Memory Guardian Familiar
-0097fba3 // Qualm Monk Familiar
-0097fba4 // Qualm Monk Trainee Familiar
-0097fba5 // Qualm Guardian Familiar
-0097fba6 // Chief Qualm Guardian Familiar
-0097fba7 // Oblivion Monk Familiar
-0097fba8 // Oblivion Monk Trainee Familiar
-0097fba9 // Oblivion Guardian Familiar
-0097fbaa // Chief Oblivion Guardian Familiar
-0097fbab // Eliza Familiar
-0097fbac // Snowman Familiar
-0097fbad // Chimera Familiar
-0097fbae // Leviathan Familiar
-0097fbaf // Dodo Familiar
-0097fbb0 // Lilynouch Familiar
-0097fbb1 // Lyka Familiar
-0097fbb2 // Blue Mushmom Familiar
-0097fbb3 // Snack Bar Familiar
-0097fbb4 // Soaring Hawk Familiar
-0097fbb5 // Soaring Eagle Familiar
-0097fbb6 // Dragonoir Familiar
-0097fbb7 // Dragon Rider Familiar
-0097fbb8 // Papulatus Clock Familiar
-0097fbb9 // Papulatus Familiar
-0097fbba // Bloody Boom Familiar
-0097fbbb // Pink Bean Familiar
-0097fbbc // Mini Bean Familiar
-0097fbbd // Dances with Balrog's Clone Familiar
-0097fbbe // Grendel the Really Old's Clone Familiar
-0097fbbf // Athena Pierce's Clone Familiar
-0097fbc0 // Dark Lord's Clone Familiar
-0097fbc1 // Shadow Kyrin Familiar
-0097fbc2 // Master of Disguise Familiar
-0097fbc3 // Black Witch Familiar
-0097fbc4 // Scarred Bear Familiar
-0097fbc5 // Thief Crow Familiar
-0097fbc6 // Primitive Thief Boar Familiar
-0097fbc7 // Schiller Familiar
-0097fbc8 // King Slime Familiar
-0097fbc9 // Mimic Familiar
-0097fbca // Alishar Familiar
-0097fbcb // Master Muscle Stone Familiar
-0097fbcc // Muscle Stone Familiar
-0097fbcd // Dark Muscle Stone Familiar
-0097fbce // Black Knight Familiar
-0097fbcf // Myst Knight Familiar
-0097fbd0 // Puppet Golem Familiar
-0097fbd1 // Gargoyle Familiar
-0097fbd2 // Jr. Gargoyle Familiar
-0097fbd3 // Devil Slime Familiar
-0097fbd4 // Ergoth Familiar
-0097fbd5 // Ghost Pixie Familiar
-0097fbd6 // Papa Pixie Familiar
-0097fbd7 // Phoenix Familiar
-0097fbd8 // Freezer Familiar
-0097fbd9 // Lord Pirate Familiar
-0097fbda // Frankenroid Familiar
-0097fbdb // Angry Frankenroid Familiar
-0097fbdc // Willi Familiar
-0097fbdd // Poisoned Lord Tree Familiar
-0097fbde // Poisoned Stone Bug Familiar
-0097fbdf // Poisoned Spright Familiar
-0097fbe0 // Poison Golem Familiar
-0097fbe1 // Poison Golem Familiar
-0097fbe2 // Charged Poison Golem Familiar
-0097fbe3 // Super-Charged Poison Golem Familiar
-0097fbe4 // Mingu Familiar
-0097fbe5 // Cynical Orange Mushroom Familiar
-0097fbe6 // Hoblin Hector Familiar
-0097fbe7 // Elite Hoblin Familiar
-0097fbe8 // Elite Green Hoblin Familiar
-0097fbe9 // Combat Hoblin Familiar
-0097fbea // Ferocious Hoblin Familiar
-0097fbeb // Rex Familiar
-0097fbec // Shammos Familiar
-0097fbed // Ifia Familiar
-0097fbee // Wolf Underling Familiar
-0097fbef // Treacherous Fox Familiar
-0097fbf0 // Trainee Spore Familiar
-0097fbf1 // Enraged Golem Familiar
-0097fbf2 // Safe Guard Familiar
-0097fbf3 // Door Block Familiar
-0097fbf4 // Black Wing Henchman Familiar
-0097fbf5 // Gentleman Familiar
-0097fbf6 // Gold Captain Familiar
-0097fbf7 // Suspicious Thief Familiar
-0097fbf8 // Rowdy Puppet Familiar
-0097fbf9 // Eleanor's Cockatrice Familiar
-0097fbfa // Fabio's Firebomb Familiar
-0097fe28 // Crow Familiar
-0097fe29 // Fire Raccoon Familiar
-0097fe2a // Cloud Fox Familiar
-0097fe2b // Nightghost Familiar
-0097fe2c // Big Cloud Fox Familiar
-0097fe2d // Red Boogie Familiar
-0097fe2e // Blue Boogie Familiar
-0097fe2f // Green Boogie Familiar
-0097fe30 // Black Boogie Familiar
-0097fe31 // Paper Lantern Ghost Familiar
-0097fe32 // Water Goblin Familiar
-0097fe33 // Dreamy Ghost Familiar
-0097fe34 // Black Crow Familiar
-0097fe35 // Extra A Familiar
-0097fe36 // Extra B Familiar
-0097fe37 // Extra C Familiar
-0097fe38 // Extra D Familiar
-0097fe39 // Leader A Familiar
-0097fe3a // Leader B Familiar
-0097fe3b // Bodyguard A Familiar
-0097fe3c // Bodyguard B Familiar
-0097fe3d // Male Boss A Familiar
-0097fe3e // Female Boss Familiar
-0097fe3f // Golden Slime Familiar
-0097fe40 // Silver Slime Familiar
-0097fe41 // Red Slime Familiar
-0097fe53 // The Boss Familiar
-0097fe54 // Genin Familiar
-0097fe55 // Chunin Familiar
-0097fe56 // Jonin Familiar
-0097fe57 // Ninto Familiar
-0097fe58 // Ashigaru Familiar
-0097fe59 // Kacchuu Musha Familiar
-0097fe5a // Kunoichi Familiar
-0097fe5b // Toad Familiar
-0097fe5c // Daimyo Familiar
-0097fe64 // Candle Monster Familiar
-0097fe65 // 1st Anniversary Cake Monster Familiar
-0097fe66 // Deluxe Candle Monster Familiar
-0097fe67 // Headless Horseman Familiar
-0097fe68 // Typhon Familiar
-0097fe69 // Bigfoot Familiar
-0097fe6a // Windraider Familiar
-0097fe6b // Firebrand Familiar
-0097fe6c // Firebrand Familiar
-0097fe6d // Nightshadow Familiar
-0097fe6e // Elderwraith Familiar
-0097fe6f // Stormbreaker Familiar
-0097fe70 // Crimson Guardian Familiar
-0097fe71 // Leprechaun Familiar
-0097fe72 // Nagrom Familiar
-0097fe73 // Margana Familiar
-0097fe74 // Red Nirg Familiar
-0097fe75 // Rellik Familiar
-0097fe76 // Hsalf Familiar
-0097fe77 // Master Guardian Familiar
-0097fe78 // Blood Stirge Familiar
-0097fe79 // Scarlet Phoenix Familiar
-0097fe7a // Azure Ocelot Familiar
-0097fe7b // Black Bird Familiar
-0097fe7c // Lord Skeleton Familiar
-0097fe7d // Pixiemom Familiar
-0097fe7e // Queen Pepe Familiar
-0097fe7f // Toy Black Knight Familiar
-0097fe80 // King Centipede Familiar
-0097fe81 // Master Hoblin Familiar
-0097fe82 // Master Harp Familiar
-0097fe83 // Master Birk Familiar
-0097fe84 // Kentaurus King Familiar
-0097fe85 // Coco Familiar
-0097fe86 // Starling Familiar
-0097fe87 // Crow Familiar
-0097fe88 // Coco Familiar
-0097fe89 // Stray Dog Familiar
-0097fe8a // Stylish Stray Dog Familiar
-0097fe8b // Angry Stray Dog Familiar
-0097fe8c // Clown Monkey Familiar
-0097fe8d // Biker Monkey Familiar
-0097fe8e // Toad Familiar
-0097fe8f // Frog Familiar
-0097fe90 // Python Familiar
-0097fe91 // Red Lizard Familiar
-0097fe92 // Yellow Lizard Familiar
-0097fe93 // White Rooster Familiar
-0097fe94 // NooNoo Familiar
-0097fe95 // Axe Visitor Familiar
-0097fe96 // Cleric Visitor Familiar
-0097fe97 // Sniper Visitor Familiar
-0097fe98 // Gunner Visitor Familiar
-0097fe99 // Assassin Visitor Familiar
-0097fe9a // Spirit Visitor Familiar
-0097fe9b // Bully Visitor Familiar
-0097fe9c // Unjust Visitor Familiar
-0097fe9d // Speedy Visitor Familiar
-0097fe9e // Destroyer Familiar
-0097fe9f // Commander Familiar
-0097fea0 // Ultimate Visitor Familiar
-0097fea1 // OS3D Diver Familiar
-0097fea2 // OS3M Miner Familiar
-0097fea3 // OS3A Machine Familiar
-0097fea4 // OS4 Shuttle Familiar
-0097fea5 // OS4 Delivery Ship Familiar
-0097fea6 // Randall Machine Familiar
-0097fea7 // Researcher H Familiar
-0097fea8 // Rooster Familiar
-0097fea9 // Duck Familiar
-0097feaa // Sheep Familiar
-0097feab // Goat Familiar
-0097feac // Black Goat Familiar
-0097fead // Cow Familiar
-0097feae // Plow Ox Familiar
-0097feaf // Black Sheep Familiar
-00980210 // Lupin Pig Familiar
-00980211 // Coke Pig Familiar
-00980212 // Coke Snail Familiar
-00980213 // Coke Seal Familiar
-00980214 // Play Seal Familiar
-00980215 // Yeti and Coketump Familiar
-00980216 // Igloo Turtle Familiar
-00980217 // Coke Golem Familiar
-00980218 // Ice Golem Familiar
-00980219 // Coke Slime Familiar
-0098021a // Coke Mushroom Familiar
-0098021b // Coketump Familiar
-0098021c // Coketump Lite Familiar
-0098021d // Golden Pig Familiar
-0098021e // Rideword P Familiar
-0098021f // Rideword Y Familiar
-00980220 // Rideword B Familiar
-00980221 // Toy Clown Familiar
-00980222 // Green Phantom Familiar
-00980223 // Fire Steed Familiar
-00980224 // Jack-o-Lantern Familiar
-00980225 // Ghost Familiar
-00980226 // Busted Doll Familiar
-00980227 // Destroyed Doll Familiar
-00980228 // Kid Snowman Familiar
-00980229 // Angry Snowman Familiar
-0098022a // Giant Snowman Familiar
-0098022b // Lost Rudolph Familiar
-0098022c // Kitty from Cheese Storage Familiar
-0098022d // Wild Monkey Familiar
-0098022e // Mama Monkey Familiar
-0098022f // White Baby Monkey Familiar
-00980230 // White Mama Monkey Familiar
-00980231 // Blue Goblin Familiar
-00980232 // Red Goblin Familiar
-00980233 // Strong Stone Goblin Familiar
-00980234 // Ravana Familiar
-00980235 // Red Snail Familiar
-00980236 // Slime Familiar
-00980237 // Ribbon Pig Familiar
-00980238 // Zombie Mushroom Familiar
-00980239 // Star Pixie Familiar
-0098023a // Golden Pig Familiar
-0098023b // Golden Pig Familiar
-0098023c // Golden Pig Familiar
-0098023d // Golden Pig Familiar
-0098023e // Golden Pig Familiar
-0098023f // Golden Pig Familiar
-0097fbfb // Crocky the Gatekeeper Familiar
-0097fbfc // Reindeer Familiar
-0097fbfd // Blood Reindeer Familiar
-0097fbfe // Bearwolf Familiar
-0097fbff // Grey Vulture Familiar
-0097fc00 // Castle Golem Familiar
-0097fc01 // Prison Guard Boar Familiar
-0097fc02 // Prison Guard Rhino Familiar
-0097fc03 // Prison Guard Ani Familiar
-0097fc04 // Mutant Snail Familiar
-0097fc05 // Mutant Orange Mushroom Familiar
-0097fc06 // Mutant Slime Familiar
-0097fc07 // Mutant Ribbon Pig Familiar
-0097fc08 // Mutant Tino Familiar
-0097fc09 // Mutant Tiru Familiar
-0097fc0a // Mutant Tiguru Familiar
-0097fc0b // Soul Familiar
-0097fc0c // Flame Familiar
-0097fc0d // Storm Familiar
-0097fc0e // Darkness Familiar
-0097fc0f // Lightning Familiar
-0097fc10 // Official Knight A Familiar
-0097fc11 // Official Knight B Familiar
-0097fc12 // Official Knight C Familiar
-0097fc13 // Official Knight D Familiar
-0097fc14 // Official Knight E Familiar
-0097fc15 // Advanced Knight A Familiar
-0097fc16 // Advanced Knight B Familiar
-0097fc17 // Advanced Knight C Familiar
-0097fc18 // Advanced Knight D Familiar
-0097fc19 // Advanced Knight E Familiar
-0097fc1a // Demon Gargoyle Familiar
+0097fa40 // Snail 
+0097fa41 // Blue Snail 
+0097fa42 // Shroom 
+0097fa43 // Stump 
+0097fa44 // Red Snail 
+0097fa45 // Potted Sprout 
+0097fa46 // Potted Morning Glory 
+0097fa47 // Grape Juice Bottle 
+0097fa48 // Slime 
+0097fa49 // Green Mushroom 
+0097fa4a // Dark Stump 
+0097fa4b // Dejected Green Mushroom 
+0097fa4c // Octopus 
+0097fa4d // Axe Stump 
+0097fa4e // Ghost Stump 
+0097fa4f // Smirking Ghost Stump 
+0097fa50 // Patrol Robot 
+0097fa51 // Strange Sign 
+0097fa52 // Serpent 
+0097fa53 // Pig 
+0097fa54 // Ribbon Pig 
+0097fa55 // Orange Mushroom 
+0097fa56 // Bubbling 
+0097fa57 // Blue Ribbon Pig 
+0097fa58 // Strange Pig 
+0097fa59 // Desert Rabbit (F) 
+0097fa5a // Desert Rabbit (M) 
+0097fa5b // Jr. Cactus 
+0097fa5c // Cactus 
+0097fa5d // Royal Cactus 
+0097fa5e // Bellamoa 
+0097fa5f // Ear Plug Plead 
+0097fa60 // Scarf Plead 
+0097fa61 // Meerkat 
+0097fa62 // Horny Mushroom 
+0097fa63 // Scorpion 
+0097fa64 // Dark Axe Stump 
+0097fa65 // Jr. Necki 
+0097fa66 // Water Thief Monster 
+0097fa67 // Dust Box 
+0097fa68 // Streetlight 
+0097fa69 // Patrol Robot S 
+0097fa6a // Mano 
+0097fa6b // Blue Mushroom 
+0097fa6c // Crying Blue Mushroom 
+0097fa6d // Evil Eye 
+0097fa6e // Zombie Mushroom 
+0097fa6f // Wild Boar 
+0097fa70 // Seacle 
+0097fa71 // Cico 
+0097fa72 // Krappy 
+0097fa73 // Pinboom 
+0097fa74 // Bubble Fish 
+0097fa75 // Wooden Mask 
+0097fa76 // Rocky Mask 
+0097fa77 // Terrified Wild Boar 
+0097fa78 // Surgeon Eye 
+0097fa79 // Muddy Swamp Monster 
+0097fa7a // Annoyed Zombie Mushroom 
+0097fa7b // Flower Fish 
+0097fa7c // Stirge 
+0097fa7d // Sentinel 
+0097fa7e // Fairy 
+0097fa7f // Brown Teddy 
+0097fa80 // Krip 
+0097fa81 // Royal Fairy 
+0097fa82 // Sand Dwarf 
+0097fa83 // Kiyo 
+0097fa84 // Ligator 
+0097fa85 // Pink Teddy 
+0097fa86 // Ratz 
+0097fa87 // Cube Slime 
+0097fa88 // Dark Sand Dwarf 
+0097fa89 // Rumo 
+0097fa8a // Triple Rumo 
+0097fa8b // Safety First 
+0097fa8c // Baby Boulder Muncher 
+0097fa8d // Big Boulder Muncher 
+0097fa8e // Fire Boar 
+0097fa8f // Jr. Cellion 
+0097fa90 // Jr. Lioner 
+0097fa91 // Jr. Grupin 
+0097fa92 // Panda Teddy 
+0097fa93 // Roloduck 
+0097fa94 // Black Ratz 
+0097fa95 // Helly 
+0097fa96 // Tick 
+0097fa97 // Retz 
+0097fa98 // Scuba Pepe 
+0097fa99 // Lupin 
+0097fa9a // Stumpy 
+0097fa9b // Deo 
+0097fa9c // Curse Eye 
+0097fa9d // Jr. Wraith 
+0097fa9e // Lorang 
+0097fa9f // King Bloctopus 
+0097faa0 // Mask Fish 
+0097faa1 // Star Pixie 
+0097faa2 // Jr. Boogie 
+0097faa3 // Bloctopus 
+0097faa4 // Propelly 
+0097faa5 // Planey 
+0097faa6 // Toy Trojan 
+0097faa7 // Chronos 
+0097faa8 // Chirppy 
+0097faa9 // Tweeter 
+0097faaa // Drumming Bunny 
+0097faab // Jr. Seal 
+0097faac // Renegade Spores 
+0097faad // Poison Mushroom 
+0097faae // Intoxicated Pig 
+0097faaf // Helmet Pepe 
+0097fab0 // Royal Guard Pepe 
+0097fab1 // Grey Yeti and King Pepe 
+0097fab2 // Gold Yeti and King Pepe 
+0097fab3 // White Yeti and King Pepe 
+0097fab4 // Prime Minister 
+0097fab5 // Cherry Bubble Tea 
+0097fab6 // Mango Bubble Tea 
+0097fab7 // Melon Bubble Tea 
+0097fab8 // Yeti Doll Claw Game 
+0097fab9 // Jr. Pepe Doll Claw Game 
+0097faba // Transformed Doll Claw Game 
+0097fabb // Transformed Doll Claw Game 
+0097fabc // Iron Mutae 
+0097fabd // Reinforced Iron Mutae 
+0097fabe // Mithril mutae 
+0097fabf // Copper Drake 
+0097fac0 // Tortie 
+0097fac1 // Rombot 
+0097fac2 // Seruf 
+0097fac3 // Cold Eye 
+0097fac4 // Zombie Lupin 
+0097fac5 // Wraith 
+0097fac6 // Iron Hog 
+0097fac7 // Clang 
+0097fac8 // Lunar Pixie 
+0097fac9 // Flyeye 
+0097faca // Jr. Cerebes 
+0097facb // Block Golem 
+0097facc // King Block Golem 
+0097facd // Robo 
+0097face // Master Robo 
+0097facf // Tick-Tock 
+0097fad0 // Platoon Chronos 
+0097fad1 // Master Chronos 
+0097fad2 // Barnard Gray 
+0097fad3 // Zeta Gray 
+0097fad4 // Ultra Gray 
+0097fad5 // Mateon 
+0097fad6 // Plateon 
+0097fad7 // Mecateon 
+0097fad8 // Sparker 
+0097fad9 // Freezer 
+0097fada // Skeledog 
+0097fadb // Mummydog 
+0097fadc // Poopa 
+0097fadd // Poison Poopa 
+0097fade // Moon Bunny 
+0097fadf // Iron Boar 
+0097fae0 // Chipmunk 
+0097fae1 // Red Porky 
+0097fae2 // Black Porky 
+0097fae3 // Blue Flower Serpent 
+0097fae4 // Red Flower Serpent 
+0097fae5 // Jar 
+0097fae6 // Ginseng Jar 
+0097fae7 // Desert Giant 
+0097fae8 // Chief Gray 
+0097fae9 // Mossy Snail 
+0097faea // Tree Rod 
+0097faeb // Blue Perfume 
+0097faec // Yellow Perfume 
+0097faed // Pink Perfume 
+0097faee // Kid Mannequin 
+0097faef // Female Mannequin 
+0097faf0 // Male Mannequin 
+0097faf1 // Latest Hits Compilation 
+0097faf2 // Greatest Oldies 
+0097faf3 // Cheap Amplifier 
+0097faf4 // Fancy Amplifier 
+0097faf5 // Spirit of Rock 
+0097faf6 // Shade 
+0097faf7 // Master Dummy 
+0097faf8 // Jr. Yeti 
+0097faf9 // Hodori 
+0097fafa // Samiho 
+0097fafb // Hogul 
+0097fafc // Reinforced Mithril Mutae 
+0097fafd // Roid 
+0097fafe // Neo Huroid 
+0097faff // Luster Pixie 
+0097fb00 // Cellion 
+0097fb01 // Lioner 
+0097fb02 // Grupin 
+0097fb03 // MT-09 
+0097fb04 // Grizzly 
+0097fb05 // Bellflower Root 
+0097fb06 // Sr. Bellflower Root 
+0097fb07 // Straw Target Dummy 
+0097fb08 // Wooden Target Dummy 
+0097fb09 // Reindeer 
+0097fb0a // The Book Ghost 
+0097fb0b // Drake 
+0097fb0c // Stone Golem 
+0097fb0d // Dark Stone Golem 
+0097fb0e // Croco 
+0097fb0f // Hector 
+0097fb10 // Dark Jr. Yeti 
+0097fb11 // Coolie Zombie 
+0097fb12 // Miner Zombie 
+0097fb13 // White Fang 
+0097fb14 // Mixed Golem 
+0097fb15 // Skeleton Soldier 
+0097fb16 // Jr. Sentinel 
+0097fb17 // Ice Sentinel 
+0097fb18 // Fire Sentinel 
+0097fb19 // King Clang 
+0097fb1a // Faust 
+0097fb1b // Timer 
+0097fb1c // Orange Mushroom 
+0097fb1d // Mossy Mushroom 
+0097fb1e // Stone Bug 
+0097fb1f // Primitive Boar 
+0097fb20 // Leatty 
+0097fb21 // Dark Leatty 
+0097fb22 // Malady 
+0097fb23 // Jr. Pepe 
+0097fb24 // Riche 
+0097fb25 // Snow Witch 
+0097fb26 // Bamboo Warrior 
+0097fb27 // Scholar Ghost 
+0097fb28 // Rurumo 
+0097fb29 // Homun 
+0097fb2a // Saitie 
+0097fb2b // Red Drake 
+0097fb2c // Mushmom 
+0097fb2d // Separated Pepe 
+0097fb2e // Boogie 
+0097fb2f // Buffy 
+0097fb30 // Morphed Blin 
+0097fb31 // Panda 
+0097fb32 // Mr. Alli 
+0097fb33 // Peach Monkey 
+0097fb34 // Kru 
+0097fb35 // Sage Cat 
+0097fb36 // Guard Robot 
+0097fb37 // Dyle 
+0097fb38 // Zeno 
+0097fb39 // Wild Kargo 
+0097fb3a // Puco 
+0097fb3b // Dark Pepe 
+0097fb3c // Lazy Buffy 
+0097fb3d // Soul Teddy 
+0097fb3e // Jr. Lucida 
+0097fb3f // Master Soul Teddy 
+0097fb40 // Ice Drake 
+0097fb41 // Dark Drake 
+0097fb42 // Officer Skeleton 
+0097fb43 // Yeti 
+0097fb44 // Punco 
+0097fb45 // Pachu 
+0097fb46 // Zombie Mushmom 
+0097fb47 // Buffoon 
+0097fb48 // Dark Yeti 
+0097fb49 // Cuzco 
+0097fb4a // Opachu 
+0097fb4b // Baby Balrog 
+0097fb4c // Deep Buffoon 
+0097fb4d // Security Camera 
+0097fb4e // D. Roy 
+0097fb4f // Homunculus 
+0097fb50 // Lucida 
+0097fb51 // Cerebes 
+0097fb52 // Beetle 
+0097fb53 // Dual Beetle 
+0097fb54 // Hankie 
+0097fb55 // Death Teddy 
+0097fb56 // Goby 
+0097fb57 // Tauromacis 
+0097fb58 // Taurospear 
+0097fb59 // Yeti and Pepe 
+0097fb5a // Commander Skeleton 
+0097fb5b // Captain 
+0097fb5c // Werewolf 
+0097fb5d // Master Death Teddy 
+0097fb5e // Yellow King Goblin 
+0097fb5f // Blue King Goblin 
+0097fb60 // Green King Goblin 
+0097fb61 // Rash 
+0097fb62 // Dark Rash 
+0097fb63 // Hobi 
+0097fb64 // Green Hobi 
+0097fb65 // Ghost Pirate 
+0097fb66 // Racoco 
+0097fb67 // Big Spider 
+0097fb68 // Cart Bear 
+0097fb69 // Racaroni 
+0097fb6a // Guard Robot L 
+0097fb6b // Dual Ghost Pirate 
+0097fb6c // Tae Roon 
+0097fb6d // Nine-Tailed Fox 
+0097fb6e // King Sage Cat 
+0097fb6f // Deet and Roi 
+0097fb70 // Raco 
+0097fb71 // Security System 
+0097fb72 // Enhanced Security System 
+0097fb73 // AF Android 
+0097fb74 // Broken DF Android 
+0097fb75 // Ore Muncher 
+0097fb76 // Homunscullo 
+0097fb77 // Jr. Balrog 
+0097fb78 // Lycanthrope 
+0097fb79 // Harp 
+0097fb7a // Blood Harp 
+0097fb7b // Dark Yeti and Pepe 
+0097fb7c // Black Kentaurus 
+0097fb7d // Red Kentaurus 
+0097fb7e // Blue Kentaurus 
+0097fb7f // Birk 
+0097fb80 // Dual Birk 
+0097fb81 // Klock 
+0097fb82 // Dark Klock 
+0097fb83 // Bain 
+0097fb84 // Bone Fish 
+0097fb85 // Blue Dragon Turtle 
+0097fb86 // Red Dragon Turtle 
+0097fb87 // Rexton 
+0097fb88 // Brexton 
+0097fb89 // Spirit Viking 
+0097fb8a // Gigantic Spirit Viking 
+0097fb8b // Squid 
+0097fb8c // Phantom Watch 
+0097fb8d // Risell Squid 
+0097fb8e // Grim Phantom Watch 
+0097fb8f // Crimson Balrog 
+0097fb90 // Shark 
+0097fb91 // Cold Shark 
+0097fb92 // Green Cornian 
+0097fb93 // Dark Cornian 
+0097fb94 // Red Wyvern 
+0097fb95 // Blue Wyvern 
+0097fb96 // Dark Wyvern 
+0097fb97 // Gatekeeper 
+0097fb98 // Thanatos 
+0097fb99 // Manon 
+0097fb9a // Griffey 
+0097fb9b // Nest Golem 
+0097fb9c // Skelegon 
+0097fb9d // Skelosaurus 
+0097fb9e // Eye of Time 
+0097fb9f // Memory Monk 
+0097fba0 // Memory Monk Trainee 
+0097fba1 // Memory Guardian 
+0097fba2 // Chief Memory Guardian 
+0097fba3 // Qualm Monk 
+0097fba4 // Qualm Monk Trainee 
+0097fba5 // Qualm Guardian 
+0097fba6 // Chief Qualm Guardian 
+0097fba7 // Oblivion Monk 
+0097fba8 // Oblivion Monk Trainee 
+0097fba9 // Oblivion Guardian 
+0097fbaa // Chief Oblivion Guardian 
+0097fbab // Eliza 
+0097fbac // Snowman 
+0097fbad // Chimera 
+0097fbae // Leviathan 
+0097fbaf // Dodo 
+0097fbb0 // Lilynouch 
+0097fbb1 // Lyka 
+0097fbb2 // Blue Mushmom 
+0097fbb3 // Snack Bar 
+0097fbb4 // Soaring Hawk 
+0097fbb5 // Soaring Eagle 
+0097fbb6 // Dragonoir 
+0097fbb7 // Dragon Rider 
+0097fbb8 // Papulatus Clock 
+0097fbb9 // Papulatus 
+0097fbba // Bloody Boom 
+0097fbbb // Pink Bean 
+0097fbbc // Mini Bean 
+0097fbbd // Dances with Balrog's Clone 
+0097fbbe // Grendel the Really Old's Clone 
+0097fbbf // Athena Pierce's Clone 
+0097fbc0 // Dark Lord's Clone 
+0097fbc1 // Shadow Kyrin 
+0097fbc2 // Master of Disguise 
+0097fbc3 // Black Witch 
+0097fbc4 // Scarred Bear 
+0097fbc5 // Thief Crow 
+0097fbc6 // Primitive Thief Boar 
+0097fbc7 // Schiller 
+0097fbc8 // King Slime 
+0097fbc9 // Mimic 
+0097fbca // Alishar 
+0097fbcb // Master Muscle Stone 
+0097fbcc // Muscle Stone 
+0097fbcd // Dark Muscle Stone 
+0097fbce // Black Knight 
+0097fbcf // Myst Knight 
+0097fbd0 // Puppet Golem 
+0097fbd1 // Gargoyle 
+0097fbd2 // Jr. Gargoyle 
+0097fbd3 // Devil Slime 
+0097fbd4 // Ergoth 
+0097fbd5 // Ghost Pixie 
+0097fbd6 // Papa Pixie 
+0097fbd7 // Phoenix 
+0097fbd8 // Freezer 
+0097fbd9 // Lord Pirate 
+0097fbda // Frankenroid 
+0097fbdb // Angry Frankenroid 
+0097fbdc // Willi 
+0097fbdd // Poisoned Lord Tree 
+0097fbde // Poisoned Stone Bug 
+0097fbdf // Poisoned Spright 
+0097fbe0 // Poison Golem 
+0097fbe1 // Poison Golem 
+0097fbe2 // Charged Poison Golem 
+0097fbe3 // Super-Charged Poison Golem 
+0097fbe4 // Mingu 
+0097fbe5 // Cynical Orange Mushroom 
+0097fbe6 // Hoblin Hector 
+0097fbe7 // Elite Hoblin 
+0097fbe8 // Elite Green Hoblin 
+0097fbe9 // Combat Hoblin 
+0097fbea // Ferocious Hoblin 
+0097fbeb // Rex 
+0097fbec // Shammos 
+0097fbed // Ifia 
+0097fbee // Wolf Underling 
+0097fbef // Treacherous Fox 
+0097fbf0 // Trainee Spore 
+0097fbf1 // Enraged Golem 
+0097fbf2 // Safe Guard 
+0097fbf3 // Door Block 
+0097fbf4 // Black Wing Henchman 
+0097fbf5 // Gentleman 
+0097fbf6 // Gold Captain 
+0097fbf7 // Suspicious Thief 
+0097fbf8 // Rowdy Puppet 
+0097fbf9 // Eleanor's Cockatrice 
+0097fbfa // Fabio's Firebomb 
+0097fe28 // Crow 
+0097fe29 // Fire Raccoon 
+0097fe2a // Cloud Fox 
+0097fe2b // Nightghost 
+0097fe2c // Big Cloud Fox 
+0097fe2d // Red Boogie 
+0097fe2e // Blue Boogie 
+0097fe2f // Green Boogie 
+0097fe30 // Black Boogie 
+0097fe31 // Paper Lantern Ghost 
+0097fe32 // Water Goblin 
+0097fe33 // Dreamy Ghost 
+0097fe34 // Black Crow 
+0097fe35 // Extra A 
+0097fe36 // Extra B 
+0097fe37 // Extra C 
+0097fe38 // Extra D 
+0097fe39 // Leader A 
+0097fe3a // Leader B 
+0097fe3b // Bodyguard A 
+0097fe3c // Bodyguard B 
+0097fe3d // Male Boss A 
+0097fe3e // Female Boss 
+0097fe3f // Golden Slime 
+0097fe40 // Silver Slime 
+0097fe41 // Red Slime 
+0097fe53 // The Boss 
+0097fe54 // Genin 
+0097fe55 // Chunin 
+0097fe56 // Jonin 
+0097fe57 // Ninto 
+0097fe58 // Ashigaru 
+0097fe59 // Kacchuu Musha 
+0097fe5a // Kunoichi 
+0097fe5b // Toad 
+0097fe5c // Daimyo 
+0097fe64 // Candle Monster 
+0097fe65 // 1st Anniversary Cake Monster 
+0097fe66 // Deluxe Candle Monster 
+0097fe67 // Headless Horseman 
+0097fe68 // Typhon 
+0097fe69 // Bigfoot 
+0097fe6a // Windraider 
+0097fe6b // Firebrand 
+0097fe6c // Firebrand 
+0097fe6d // Nightshadow 
+0097fe6e // Elderwraith 
+0097fe6f // Stormbreaker 
+0097fe70 // Crimson Guardian 
+0097fe71 // Leprechaun 
+0097fe72 // Nagrom 
+0097fe73 // Margana 
+0097fe74 // Red Nirg 
+0097fe75 // Rellik 
+0097fe76 // Hsalf 
+0097fe77 // Master Guardian 
+0097fe78 // Blood Stirge 
+0097fe79 // Scarlet Phoenix 
+0097fe7a // Azure Ocelot 
+0097fe7b // Black Bird 
+0097fe7c // Lord Skeleton 
+0097fe7d // Pixiemom 
+0097fe7e // Queen Pepe 
+0097fe7f // Toy Black Knight 
+0097fe80 // King Centipede 
+0097fe81 // Master Hoblin 
+0097fe82 // Master Harp 
+0097fe83 // Master Birk 
+0097fe84 // Kentaurus King 
+0097fe85 // Coco 
+0097fe86 // Starling 
+0097fe87 // Crow 
+0097fe88 // Coco 
+0097fe89 // Stray Dog 
+0097fe8a // Stylish Stray Dog 
+0097fe8b // Angry Stray Dog 
+0097fe8c // Clown Monkey 
+0097fe8d // Biker Monkey 
+0097fe8e // Toad 
+0097fe8f // Frog 
+0097fe90 // Python 
+0097fe91 // Red Lizard 
+0097fe92 // Yellow Lizard 
+0097fe93 // White Rooster 
+0097fe94 // NooNoo 
+0097fe95 // Axe Visitor 
+0097fe96 // Cleric Visitor 
+0097fe97 // Sniper Visitor 
+0097fe98 // Gunner Visitor 
+0097fe99 // Assassin Visitor 
+0097fe9a // Spirit Visitor 
+0097fe9b // Bully Visitor 
+0097fe9c // Unjust Visitor 
+0097fe9d // Speedy Visitor 
+0097fe9e // Destroyer 
+0097fe9f // Commander 
+0097fea0 // Ultimate Visitor 
+0097fea1 // OS3D Diver 
+0097fea2 // OS3M Miner 
+0097fea3 // OS3A Machine 
+0097fea4 // OS4 Shuttle 
+0097fea5 // OS4 Delivery Ship 
+0097fea6 // Randall Machine 
+0097fea7 // Researcher H 
+0097fea8 // Rooster 
+0097fea9 // Duck 
+0097feaa // Sheep 
+0097feab // Goat 
+0097feac // Black Goat 
+0097fead // Cow 
+0097feae // Plow Ox 
+0097feaf // Black Sheep 
+00980210 // Lupin Pig 
+00980211 // Coke Pig 
+00980212 // Coke Snail 
+00980213 // Coke Seal 
+00980214 // Play Seal 
+00980215 // Yeti and Coketump 
+00980216 // Igloo Turtle 
+00980217 // Coke Golem 
+00980218 // Ice Golem 
+00980219 // Coke Slime 
+0098021a // Coke Mushroom 
+0098021b // Coketump 
+0098021c // Coketump Lite 
+0098021d // Golden Pig 
+0098021e // Rideword P 
+0098021f // Rideword Y 
+00980220 // Rideword B 
+00980221 // Toy Clown 
+00980222 // Green Phantom 
+00980223 // Fire Steed 
+00980224 // Jack-o-Lantern 
+00980225 // Ghost 
+00980226 // Busted Doll 
+00980227 // Destroyed Doll 
+00980228 // Kid Snowman 
+00980229 // Angry Snowman 
+0098022a // Giant Snowman 
+0098022b // Lost Rudolph 
+0098022c // Kitty from Cheese Storage 
+0098022d // Wild Monkey 
+0098022e // Mama Monkey 
+0098022f // White Baby Monkey 
+00980230 // White Mama Monkey 
+00980231 // Blue Goblin 
+00980232 // Red Goblin 
+00980233 // Strong Stone Goblin 
+00980234 // Ravana 
+00980235 // Red Snail 
+00980236 // Slime 
+00980237 // Ribbon Pig 
+00980238 // Zombie Mushroom 
+00980239 // Star Pixie 
+0098023a // Golden Pig 
+0098023b // Golden Pig 
+0098023c // Golden Pig 
+0098023d // Golden Pig 
+0098023e // Golden Pig 
+0098023f // Golden Pig 
+0097fbfb // Crocky the Gatekeeper 
+0097fbfc // Reindeer 
+0097fbfd // Blood Reindeer 
+0097fbfe // Bearwolf 
+0097fbff // Grey Vulture 
+0097fc00 // Castle Golem 
+0097fc01 // Prison Guard Boar 
+0097fc02 // Prison Guard Rhino 
+0097fc03 // Prison Guard Ani 
+0097fc04 // Mutant Snail 
+0097fc05 // Mutant Orange Mushroom 
+0097fc06 // Mutant Slime 
+0097fc07 // Mutant Ribbon Pig 
+0097fc08 // Mutant Tino 
+0097fc09 // Mutant Tiru 
+0097fc0a // Mutant Tiguru 
+0097fc0b // Soul 
+0097fc0c // Flame 
+0097fc0d // Storm 
+0097fc0e // Darkness 
+0097fc0f // Lightning 
+0097fc10 // Official Knight A 
+0097fc11 // Official Knight B 
+0097fc12 // Official Knight C 
+0097fc13 // Official Knight D 
+0097fc14 // Official Knight E 
+0097fc15 // Advanced Knight A 
+0097fc16 // Advanced Knight B 
+0097fc17 // Advanced Knight C 
+0097fc18 // Advanced Knight D 
+0097fc19 // Advanced Knight E 
+0097fc1a // Demon Gargoyle 
 0097fc1b // Red Crocky Familliar
-0097fc1c // Prison Guard Boar Familiar
-0097fc1d // Prison Guard Rhino Familiar
-0097fc1e // Mini Castle Golem Familiar
-0097fc1f // Mihile Familiar
-0097fc20 // Oz Familiar
-0097fc21 // Irena Familiar
-0097fc22 // Eckhart Familiar
-0097fc23 // Hawkeye Familiar
-0097fc24 // Shinsoo Familiar
-0097fc25 // Cygnus Familiar
-0097fc51 // Takigawa Kazumasu Familiar
-0097fc52 // Oda Samurai Captain Familiar
-0097fc53 // Oda Warrior Familiar
-0097fc54 // Oda Advanced Scout Familiar
-0097fc55 // Conjureye Familiar
+0097fc1c // Prison Guard Boar 
+0097fc1d // Prison Guard Rhino 
+0097fc1e // Mini Castle Golem 
+0097fc1f // Mihile 
+0097fc20 // Oz 
+0097fc21 // Irena 
+0097fc22 // Eckhart 
+0097fc23 // Hawkeye 
+0097fc24 // Shinsoo 
+0097fc25 // Cygnus 
+0097fc51 // Takigawa Kazumasu 
+0097fc52 // Oda Samurai Captain 
+0097fc53 // Oda Warrior 
+0097fc54 // Oda Advanced Scout 
+0097fc55 // Conjureye 
 0097fc56 // Oda Onmyouji
-0097fc57 // Floateye Familiar
-0097fc58 // Onieye Familiar
-0097fc59 // Oda Scout Familiar
-0097fc5a // Oda Guardsman Familiar
-0097fc50 // Ranmaru Familiar
-0097fd48 // Princess No Familiar
-0097fd49 // Oura Shogun Familiar
-0097fd4a // Renka Familiar
-0097fd4b // Mikagami Familiar
-0097fd4c // Miroku Familiar
-0097fd4d // Oda Swordsman Familiar
-0097fd4e // Oda Swordsman Familiar
-0097fd4f // Oda Swordsman Familiar
-0097fd50 // Oda Swordsman Familiar
-0097fd51 // Oda Swordsman Familiar
-0097fd52 // Oda Spirit Walker Familiar
-0097fd53 // Oda Spirit Walker Familiar
-0097fd54 // Oda Spirit Walker Familiar
-0097fd55 // Oda Spirit Walker Familiar
-0097fd56 // Oda Spirit Walker Familiar
-0097fc87 // The Gleam Eyes Familiar
-0097fc88 // The Skull Reaper Familiar
-0097fc89 // The Fatal Scythe Familiar
-0097fce7 // Demon Soldier Card
-0097fce8 // Dark Demon Axeman Card
-0097fce9 // Dark Demon Shieldbearer Card
-0097fcea // Dark Demon Swordmaster Card
-0097fceb // Dark Demon Shieldmaster Card
-0097fcec // Dark Demon Wolfmaster Card
-0097fced // Ruins Scorpion Card
-0097fcee // Devil Murukun Card
-0097fcef // Devil Mukuru Card
-0097fcf0 // Damien Card
+0097fc57 // Floateye 
+0097fc58 // Onieye 
+0097fc59 // Oda Scout 
+0097fc5a // Oda Guardsman 
+0097fc50 // Ranmaru 
+0097fd48 // Princess No 
+0097fd49 // Oura Shogun 
+0097fd4a // Renka 
+0097fd4b // Mikagami 
+0097fd4c // Miroku 
+0097fd4d // Oda Swordsman 
+0097fd4e // Oda Swordsman 
+0097fd4f // Oda Swordsman 
+0097fd50 // Oda Swordsman 
+0097fd51 // Oda Swordsman 
+0097fd52 // Oda Spirit Walker 
+0097fd53 // Oda Spirit Walker 
+0097fd54 // Oda Spirit Walker 
+0097fd55 // Oda Spirit Walker 
+0097fd56 // Oda Spirit Walker 
+0097fc87 // The Gleam Eyes 
+0097fc88 // The Skull Reaper 
+0097fc89 // The Fatal Scythe 
+0097fce7 // Demon Soldier 
+0097fce8 // Dark Demon Axeman 
+0097fce9 // Dark Demon Shieldbearer 
+0097fcea // Dark Demon Swordmaster 
+0097fceb // Dark Demon Shieldmaster 
+0097fcec // Dark Demon Wolfmaster 
+0097fced // Ruins Scorpion 
+0097fcee // Devil Murukun 
+0097fcef // Devil Mukuru 
+0097fcf0 // Damien 
