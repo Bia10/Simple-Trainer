@@ -25,7 +25,7 @@
 0097fa58 // Strange Pig 
 0097fa59 // Desert Rabbit (F) 
 0097fa5a // Desert Rabbit (M) 
-0097fa5b // Jr. Cactus 
+0097fa5b // Jr Cactus 
 0097fa5c // Cactus 
 0097fa5d // Royal Cactus 
 0097fa5e // Bellamoa 
@@ -35,7 +35,7 @@
 0097fa62 // Horny Mushroom 
 0097fa63 // Scorpion 
 0097fa64 // Dark Axe Stump 
-0097fa65 // Jr. Necki 
+0097fa65 // Jr Necki 
 0097fa66 // Water Thief Monster 
 0097fa67 // Dust Box 
 0097fa68 // Streetlight 
@@ -77,9 +77,9 @@
 0097fa8c // Baby Boulder Muncher 
 0097fa8d // Big Boulder Muncher 
 0097fa8e // Fire Boar 
-0097fa8f // Jr. Cellion 
-0097fa90 // Jr. Lioner 
-0097fa91 // Jr. Grupin 
+0097fa8f // Jr Cellion 
+0097fa90 // Jr Lioner 
+0097fa91 // Jr Grupin 
 0097fa92 // Panda Teddy 
 0097fa93 // Roloduck 
 0097fa94 // Black Ratz 
@@ -91,12 +91,12 @@
 0097fa9a // Stumpy 
 0097fa9b // Deo 
 0097fa9c // Curse Eye 
-0097fa9d // Jr. Wraith 
+0097fa9d // Jr Wraith 
 0097fa9e // Lorang 
 0097fa9f // King Bloctopus 
 0097faa0 // Mask Fish 
 0097faa1 // Star Pixie 
-0097faa2 // Jr. Boogie 
+0097faa2 // Jr Boogie 
 0097faa3 // Bloctopus 
 0097faa4 // Propelly 
 0097faa5 // Planey 
@@ -105,7 +105,7 @@
 0097faa8 // Chirppy 
 0097faa9 // Tweeter 
 0097faaa // Drumming Bunny 
-0097faab // Jr. Seal 
+0097faab // Jr Seal 
 0097faac // Renegade Spores 
 0097faad // Poison Mushroom 
 0097faae // Intoxicated Pig 
@@ -119,7 +119,7 @@
 0097fab6 // Mango Bubble Tea 
 0097fab7 // Melon Bubble Tea 
 0097fab8 // Yeti Doll Claw Game 
-0097fab9 // Jr. Pepe Doll Claw Game 
+0097fab9 // Jr Pepe Doll Claw Game 
 0097faba // Transformed Doll Claw Game 
 0097fabb // Transformed Doll Claw Game 
 0097fabc // Iron Mutae 
@@ -136,7 +136,7 @@
 0097fac7 // Clang 
 0097fac8 // Lunar Pixie 
 0097fac9 // Flyeye 
-0097faca // Jr. Cerebes 
+0097faca // Jr Cerebes 
 0097facb // Block Golem 
 0097facc // King Block Golem 
 0097facd // Robo 
@@ -182,7 +182,7 @@
 0097faf5 // Spirit of Rock 
 0097faf6 // Shade 
 0097faf7 // Master Dummy 
-0097faf8 // Jr. Yeti 
+0097faf8 // Jr Yeti 
 0097faf9 // Hodori 
 0097fafa // Samiho 
 0097fafb // Hogul 
@@ -196,7 +196,7 @@
 0097fb03 // MT-09 
 0097fb04 // Grizzly 
 0097fb05 // Bellflower Root 
-0097fb06 // Sr. Bellflower Root 
+0097fb06 // Sr Bellflower Root 
 0097fb07 // Straw Target Dummy 
 0097fb08 // Wooden Target Dummy 
 0097fb09 // Reindeer 
@@ -206,13 +206,13 @@
 0097fb0d // Dark Stone Golem 
 0097fb0e // Croco 
 0097fb0f // Hector 
-0097fb10 // Dark Jr. Yeti 
+0097fb10 // Dark Jr Yeti 
 0097fb11 // Coolie Zombie 
 0097fb12 // Miner Zombie 
 0097fb13 // White Fang 
 0097fb14 // Mixed Golem 
 0097fb15 // Skeleton Soldier 
-0097fb16 // Jr. Sentinel 
+0097fb16 // Jr Sentinel 
 0097fb17 // Ice Sentinel 
 0097fb18 // Fire Sentinel 
 0097fb19 // King Clang 
@@ -225,7 +225,7 @@
 0097fb20 // Leatty 
 0097fb21 // Dark Leatty 
 0097fb22 // Malady 
-0097fb23 // Jr. Pepe 
+0097fb23 // Jr Pepe 
 0097fb24 // Riche 
 0097fb25 // Snow Witch 
 0097fb26 // Bamboo Warrior 
@@ -240,7 +240,7 @@
 0097fb2f // Buffy 
 0097fb30 // Morphed Blin 
 0097fb31 // Panda 
-0097fb32 // Mr. Alli 
+0097fb32 // Mr Alli 
 0097fb33 // Peach Monkey 
 0097fb34 // Kru 
 0097fb35 // Sage Cat 
@@ -252,7 +252,7 @@
 0097fb3b // Dark Pepe 
 0097fb3c // Lazy Buffy 
 0097fb3d // Soul Teddy 
-0097fb3e // Jr. Lucida 
+0097fb3e // Jr Lucida 
 0097fb3f // Master Soul Teddy 
 0097fb40 // Ice Drake 
 0097fb41 // Dark Drake 
@@ -268,7 +268,7 @@
 0097fb4b // Baby Balrog 
 0097fb4c // Deep Buffoon 
 0097fb4d // Security Camera 
-0097fb4e // D. Roy 
+0097fb4e // D Roy 
 0097fb4f // Homunculus 
 0097fb50 // Lucida 
 0097fb51 // Cerebes 
@@ -309,7 +309,7 @@
 0097fb74 // Broken DF Android 
 0097fb75 // Ore Muncher 
 0097fb76 // Homunscullo 
-0097fb77 // Jr. Balrog 
+0097fb77 // Jr Balrog 
 0097fb78 // Lycanthrope 
 0097fb79 // Harp 
 0097fb7a // Blood Harp 
@@ -400,7 +400,7 @@
 0097fbcf // Myst Knight 
 0097fbd0 // Puppet Golem 
 0097fbd1 // Gargoyle 
-0097fbd2 // Jr. Gargoyle 
+0097fbd2 // Jr Gargoyle 
 0097fbd3 // Devil Slime 
 0097fbd4 // Ergoth 
 0097fbd5 // Ghost Pixie 
