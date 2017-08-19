@@ -1,0 +1,230 @@
+v0.7.2: (in development)
+- fixed an issue where turning off 'Compact View' may cause the some of the trainer's UI components to be un-viewable or un-usable
+- added Quick Access to ID Search
+- added the ability to fetch temp Core files online if missing
+- more?
+
+v0.7.1: (8/17/17)
+- added Damage Skin IDs to ID Search
+- fixed an issue where using searched Skill IDs and Familiar IDs would not work unless you remove the comment (now you don't need to!)
+- added 'Compact View' to General > Trainer Controls
+- minor text fixes
+
+v0.7.0: (8/13/17)
+- fixed Kami + Loot
+- removed Auto Big Spider + Jr. Boogie Unlimited MP
+- added Auto Cube Equip (credits to DAVHEED)
+- added Auto Portal, Full Map Loot, Block Character Movement [Packet], Portal Kami + Loot, Clear Field UI (hacks credits to Korgon)
+- UI changes:
+--- extended width of the trainer (less claustrophobic!)
+--- added Changelog to MOTD tab
+--- removed Settings tab
+- added Profile System (ALPHA) to General tab
+- other changes
+
+v0.6.9r1: (8/10/17)
+- fixed Infinite Familiar
+- updated Packet Sender
+
+v0.6.9: (8/10/17)
+- initial update to GMS v187.3
+- updated Portal Mouse Teleport
+
+v0.6.8:
+- ID Search is here! (thanks, dagon)
+--- Find Familiar, Mob, Skill, and Item names/IDs right from the trainer
+--- ..\Core\ folder and files now required to use the trainer
+- added Mob Confusion
+- UI changes to the previous Misc tab
+- minor text fixes
+- other changes
+
+v0.6.7:
+- fixed Normal Projectiles Attack Count Increase
+- updated Mob Filter and Skill Injection
+- Packet Sender inputs are now saved with Save Textfields
+- added experimental "Avoid D/C Ban" option to Auto Character; hover/read for full info
+- hacks hints have been updated, specifically for Mob Vac(s)
+- other general changes
+
+v0.6.6:
+- disabled Auto Big Spider + Jr. Boogie Unlimited MP (due to crashing)
+- fixed various issues
+- added Experimental Disable Mob Vac On Map Change (Settings > Trainer Controls)
+- added Inject DLL (File > Inject DLL), Auto Assembler, Block Recv, and Packet Sender
+- added Blink godmode, Auto Turn, Instant Item Drop, Air Loot, Knockback Function, Kami + Loot, Mob Filter, Map Speed Up, No Item Floating, No Nexon Survey Popup, and No Quest Lag (credits to Korgon, Razz, DAVHEED)
+- hack hints have been updated
+
+v0.6.5:
+- several bug fixes
+- fixed Auto Big Spider + Jr. Boogie Unlimited MP
+- added Normal Projectiles Attack Count Increase (credits Korgon)
+- added Mobs, Dropped Items, and Item ID (credits Korgon) to Information box
+--- Map ID is now not automatically enabled
+--- all can be enabled through Settings
+--- you can now click on 'Map ID' and 'Item ID' in Information to copy the IDs to your clipboard
+- certain hack hints have been updated
+- minor text fixes
+
+v0.6.4:
+- fixed Auto Big Spider + Jr. Boogie Unlimited MP
+- added client-sided Damage Skin Changer
+- UI changes:
+--- Temporarily Disable Hacks (a.k.a Safety Mode) moved to the Safety box in General tab
+--- you can now click on 'Skill ID' in Information and copy the skill ID to your clipboard
+--- 'Disable All' move to the main menu at the top and will prompt you to confirm disabling
+--- Item Filter, when enabled, will now let you scroll through the list but will not let you edit
+--- added the Memo Pad to Settings tab
+- fixed the issue where loading textfields that were never saved before would cause them to be blank (they should now show the default value)
+
+v0.6.3r1:
+- fixed Jaguar Skill Injection
+v0.6.3:
+- fixed Ingame Map Rusher, Auto Character, Kinesis attack hacks not being enabled, an issue where Save Settings saves the incorrect filter mode
+- updated Map ID information
+- added the following:
+--- hacks: 4 more Auto Key options, Skill ID Information, Auto Big Spider + Jr. Boogie Unlimited MP, Infinite Pet, Dragon Breath After Every Attack, Kami, Jaguar Skill Injection, Vellum Freeze v2, Hide Most Skill Animations, Remove Screen Clutter, Show/Hide NPCs [new hacks credits to: OuterHaven, Korgon, NORBIN, maplefreak200]
+--- hotkey: Panic (disable all)
+- some UI changes/organization
+- you can now attach without dinput8 needing to be detected (Terminal users)
+
+v0.6.2:
+- fixed No Mob Spawn/Death Animation, Dragon Dive FMA, Portal Mouse Teleport, Auto Channel, Monkey Spirits No Delay
+- disabled No Delay Blazing Extinction due to consistent crashing issues related to it
+- re-enabled Kinesis attack hacks
+- added Custom Item Filter in the new Item Filter tab
+--- edit the list by entering or removing item IDs (be sure to follow the format)
+--- Preset Item Filter has been moved to the new tab
+- added Terminate Maple option
+--- forcefully quits the attached MapleStory if People count is greater than specified, if enabled
+--- currently no restart options; use as a last resort option
+
+v0.6.1r1:
+- fixed Infinite Familiar, Skill Injection
+v0.6.1:
+- initial update to GMS v187.2
+- added the following
+--- hacks: Portal Mouse Teleport (credits to Korgon)
+--- settings: Mesos to Information Box, Safety Mode (required for Auto CC)
+--- UI: Main menu
+- trainer now requires the path to the MapleStory directory; reduced/limited memory usage; enabled trainer protection
+- fixed reported/unreported issues
+- updated hack hints with Disconnection/Auto Ban info
+- other general changes and additions
+
+v0.6.0:
+- added Information box to General tab
+--- updates World, Channel, Players on the map, and Player position every 500ms (half a second)
+- fixed Auto Channel, Disable Pet Return, Auto Attack (keys 0-9)
+- fixed the following from not turning off even when disabled: Auto Offline, Dragon Dive FMA
+- updated Item Filter to include: Horseback Riding Doll Totem, Jade Kettle Totem, Bronze Incense Burner Totem, OMNI-CLN Component, and Sengoku School Bag
+- hack hints have been updated
+--- added the properties of Snake and Air Hit vac to the hint
+- other general changes and additions
+
+v0.5.9r1:
+- due to a problem with the new minimum mesos input causing Item Filter to not work, it has been removed
+v0.5.9:
+- fixed Auto Channel and Snake Mob Vac not using shift coordinates
+- fixed the following from not turning off even when disabled: Mob Speed Up, No Platforms, No Mob Reaction, No Mob Spawn/Death Animation, and No Skill Sounds
+- added a minimum mesos input for the Preset Item Filter
+- updated Item Filter to include: Oda Coin
+- removed dinput8.dll detection
+- added 'Disable All' button in Settings tab
+--- disables all currently enabled hacks
+- saved settings no longer automatically load when the trainer starts up
+--- this is to prevent first-time users from seeing blank inputs and not the default entries
+--- users must click 'Load Settings' in the Settings tab to load up their saved settings every time the trainer starts up
+- hack hints have been updated
+- other general changes
+
+v0.5.8:
+- UI has been changed
+--- removed Skill Inject and Experimental tabs
+--- organized Attacks, Skill Inject, and Mob Vac
+--- new way to attach process: Click "Select Process" > click a MapleStory process > click "Attach"
+- fixed Auto Gateway, Auto Login, Auto Familiar, No Mob Spawn/Death Animation, No Platforms, Controlled Magic Injection, Hyper Rock CRC Bypass, No Delay Blazing Extinction, and Save Settings
+- added Zoom In or Zoom Out; re-added Psychic Lock/Grab FMA; re-enabled Mob Speed Up; renamed the previous "Experimental Mob Vac 2" to "Snake Mob Vac"
+- added 'Custom Mob Vac'
+--- please hover and read hint before attempting to use
+- You can now change keys for the following: Auto HP/MP, Auto Attack, and Auto Key
+- updated Item Filter to include: Tang Dynasty Horseback Riding Doll, Qing Dynasty Jade Kettle, and Ming Dynasty Bronze Incense Burner
+- hack hints have been updated
+- other general changes and additions
+
+v0.5.7:
+- fixed Monkey Spirits No Delay, No Skill Sounds, No Blue Boxes
+- added No D/C Popup, Hyper Rock CRC Bypass
+- Removed Reactor Morph, Psychic Grab FMA
+- disabled Mob Speed Up
+- separated No Delay Unlimited Arrow Platter
+- updated Item Filter to include: Big Spider, Mutant Snail, and Mutant Ribbon Pig Familiar drops
+- added Experimental tab
+- various fixes, changes, and additions
+
+v0.5.6:
+- updated Enable Disabled Buttons, Ingame Map Rusher, Resolution Changer
+- fixed Tubi, No Loot Animation, Auto Change Channel
+- added Auto Familiar, and confirmations to SI Database and View Skill ID buttons
+- added MOTD tab; Disable MOTD Check in Settings tab
+- improved dinput8 detection (includes Steam folder; still doesn't do anything... yet)
+- other general changes
+
+v0.5.5:
+- updated to GMS v186.3
+- fixed Auto HP/MP, Auto Offline, Jump Down Anywhere
+- Added Spawn Point Control, Burn Pink Bean, No Loot Animation
+- Removed Blaster Infinite Bullets
+- trainer will now detect dinput8 in your appdata folder
+- other general fixes
+
+v0.5.4:
+- Simple Trainer has been updated to CE 6.7
+- updated Unlimited Arrow Platter + No Delay (now called No Delay Unlimited Arrow Platter) to have a delay
+- Air Hit Mob Vac now lets you shift vac location by +/- X/Y coordinate
+- updated Item Filter; now accepts Crusader Coins and Power Elixirs
+- 'Skill Injection Database' and 'View Skill IDs' buttons added to Skill Inject tab
+- added Auto Gateway, Auto Channel, and Auto Login to the Settings tab
+- added Teleport, Ingame Map Rusher
+
+v0.5.3:
+- hack hints have been updated
+- fixed Jr Boogie Unlimited MP, Item Filter, and Skill Injection
+- updated Item Filter to accept the Override Boxes
+- added Auto Change Next Channel, Resolution Changer
+- separated Multi Blazing Extinction to Unlimited BE, Freeze BE, No Delay BE, and Constant BE Attack
+- disabled Multi Blazing Extinction, Auto HP/MP
+- added the 'Settings' tab: save inputs using 'Save Settings' or reset them to default using 'Reset Settings'
+--- Users who previously used Simple Trainer v0.4.8 or lower will need to click 'Reset Settings' and restart the trainer to clear previous settings
+--- Users can now check for updates without restarting the trainer
+- changed it so that 'Attach to Maple' is disabled until the trainer can detect an open MapleStory process
+
+v0.5.2: (update is thanks to OuterHaven!)
+- updated Jr Boogie Unlimited MP, Fast Pet Loot, Portal Master, Item Filter, Auto HP/MP, and Skill Injection
+- added Controlled Magic Injection, No Delay Body Attack, Homing Beacon FMA, Instant Collision, No Delay Homing Beacon, Summon Skills Kami, and Set Grayscale
+- updated version checker; may cause problems for those using v0.5.1 / v0.5.1r1
+
+v0.5.1:
+- fixed Disable Pet Return
+- added No Delay Flash Jump, Reactor Morph, Auto Key (CTRL), Attack on Rope, No Delay Ingame Direction Event, Psychic Lock FMA, Instant Final Smash, Instant V Slash, Dragon Dive FMA, No Multi Kill
+- disabled Item Filter
+- trainer will now prompt you to update (to this thread) if there is a new version
+- hints have been fully added (hover over each hack to see)
+hotfix r1:
+- fixed Delayed Pet Loot
+
+v0.5.0:
+- fixed Delayed Pet Loot for reals
+- fixed Auto Attack for reals
+- fixed Auto Offline, Jr. Boogie Unlimited MP,
+- added Guard Godmode, No Blazing Extinction Effect, No Skill Sounds, No Platforms
+- disabled Portal Master (need to look into this)
+
+v0.4.9 hotfix: [Initial Release]
+- fixed Delayed Pet Loot
+hotfix 2:
+- fixed Jr Boogie Unlimited MP
+- corrected to new version
+hotfix 3:
+- prevented trainer from being sizeable
+- fixed Auto Attack (CTRL)
