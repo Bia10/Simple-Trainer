@@ -1,0 +1,8 @@
+Latest Simple Trainer Changelog
+=============================
+
+v0.7.1: (8/17/17)
+- added Damage Skin IDs to ID Search
+- fixed an issue where using searched Skill IDs and Familiar IDs would not work unless you remove the comment (now you don't need to!)
+- added 'Compact View' to General > Trainer Controls
+- minor text fixes
