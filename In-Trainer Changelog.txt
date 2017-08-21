@@ -10,6 +10,7 @@ v0.7.2: (8/20/17)
 - updated Profile System (BETA)
 --- can now save and load (most) enabled hacks
 --- pre-v0.7.2 profiles will no longer work; please delete them and re-save new profiles
+- other minor changes/additions
 
 v0.7.2 update issues:
 - None reported
