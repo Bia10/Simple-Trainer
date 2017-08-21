@@ -1,8 +1,13 @@
-v0.7.2: (in development)
+v0.7.2: (8/20/17)
+- disabled Orbital Flame FMA and Semi Item Vac (due to auto ban reports)
+- warning added to enable Mob Vac (due to auto ban reports)
 - fixed an issue where turning off 'Compact View' may cause the some of the trainer's UI components to be un-viewable or un-usable
 - added Quick Access to ID Search
 - added the ability to fetch temp Core files online if missing
-- more?
+- updated Profile System (BETA)
+--- can now save and load (most) enabled hacks
+--- pre-v0.7.2 profiles will no longer work; please delete them and re-save new profiles
+- other minor changes/additions
 
 v0.7.1: (8/17/17)
 - added Damage Skin IDs to ID Search
