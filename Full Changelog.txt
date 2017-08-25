@@ -3,6 +3,8 @@ v0.7.3: (in development)
 --- Profile System: press Enter or Delete keys on a profile name to Load or Delete, respectively; press Enter key on the profile naming textfield to Save
 --- ID Search: press Enter key on the search term textfield to Search; double-click or press Enter key on the search results to copy the ID to clipboard or select/add the selected ID, respectively
 --- Packet Sender: automatic packet separation of the header and timestamp+data and size detection; only works with raw, spaced out packets
+- added Thread Spoof Mode to Auto Assembler tab and Instant Packet Sender to Packet Sender tab [requires Thread Spoof Mode] (credits/updated by Raymond)
+- added Map IDs to ID Search (fetch file from the internet)
 
 v0.7.2: (8/20/17)
 - disabled Orbital Flame FMA and Semi Item Vac (due to auto ban reports)
