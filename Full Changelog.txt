@@ -6,6 +6,7 @@ v0.7.3: (in development -- expected release: after next patch)
 - added Thread Spoof Mode to Auto Assembler tab and Instant Packet Sender to Packet Sender tab [requires Thread Spoof Mode] (credits/updated by Raymond)
 - added Map IDs to ID Search (fetch file from the internet)
 - updated the second Skill Injection resource redirect to Aeternum's "Injectable Skills and FMA" thread
+- fixed a minor issue where No Catch Breath would still be enabled even after being disabled
 
 v0.7.2: (8/20/17)
 - disabled Orbital Flame FMA and Semi Item Vac (due to auto ban reports)
