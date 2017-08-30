@@ -1,0 +1,19 @@
+Welcome to Simple Trainer
+
+[Tune Up Patch - GMS v188.2 // Simple Trainer downtime]
+Access to Simple Trainer will be disabled at approximately 12pm PDT on Aug. 30, 2017 due to the update to GMS v188.2. You will no longer be able to use this and any past versions of Simple Trainer. Please note that since I am busy, Simple Trainer will not be updated as quickly as it did in the past, so expect at least a day before release.
+
+#####################################################################
+[v0.7.3 upgrade]
+*WARNING* Delete pre-v0.7.2 profiles. Using them will cause unexpected behavior and may result in serious problems (e.g. auto ban). DELETE AND DO NOT USE PRE-v0.7.2 PROFILES.
+#####################################################################
+IMPORTANT:
+Mob Vac auto bans now (for certain classes)! Use at your own risk.
+#####################################################################
+
+v0.7.2 is now LIVE! Download via trainer thread.
+
+If you need help:
+- Hover over hacks for hints first
+- FMA/Skill Injection related: Make sure your skill is able to FMA or be injected
+- Crashing/Instant Disconnection: Check anti-virus/anti-malware for exceptions to Simple Trainer
