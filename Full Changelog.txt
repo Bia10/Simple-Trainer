@@ -1,4 +1,5 @@
-v0.7.3: (in development -- expected release: after next patch)
+v0.7.3: (9/1/17)
+- initial update to GMS v188.2 (grayed out hacks means they are not updated)
 - quality of life functionality added:
 --- Profile System: press Enter or Delete keys on a profile name to Load or Delete, respectively; press Enter key on the profile naming textfield to Save
 --- ID Search: press Enter key on the search term textfield to Search; double-click or press Enter key on the search results to copy the ID to clipboard or select/add the selected ID, respectively
