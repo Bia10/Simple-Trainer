@@ -13,7 +13,7 @@ IMPORTANT:
 Mob Vac auto bans now (for certain classes)! Use at your own risk.
 #####################################################################
 
-v0.7.3 is now LIVE! Download via trainer thread.
+v0.7.3r1 is now LIVE! Download via trainer thread.
 
 If you need help:
 - Hover over hacks for hints first
