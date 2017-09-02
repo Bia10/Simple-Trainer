@@ -14,4 +14,4 @@ v0.7.3: (9/1/17)
 - see the full changelog in the trainer thread
 
 v0.7.3 update issues:
-- Auto HP/MP crashes on use
+- Skill Injection (not working)
