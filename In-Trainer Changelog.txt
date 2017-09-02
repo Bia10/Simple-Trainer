@@ -1,16 +1,16 @@
 Latest Simple Trainer Changelog
 =============================
 
-v0.7.2: (8/20/17)
-- disabled Orbital Flame FMA and Semi Item Vac (due to auto ban reports)
-- warning added to enable Mob Vac (due to auto ban reports)
-- fixed an issue where turning off 'Compact View' may cause the some of the trainer's UI components to be un-viewable or un-usable
-- added Quick Access to ID Search
-- added the ability to fetch temp Core files online if missing
-- updated Profile System (BETA)
---- can now save and load (most) enabled hacks
---- pre-v0.7.2 profiles will no longer work; please delete them and re-save new profiles
-- other minor changes/additions
+v0.7.3: (9/1/17)
+- initial update to GMS v188.2 (grayed out hacks means they are not updated)
+- quality of life functionality added:
+--- Profile System: press Enter or Delete keys on a profile name to Load or Delete, respectively; press Enter key on the profile naming textfield to Save
+--- ID Search: press Enter key on the search term textfield to Search; double-click or press Enter key on the search results to copy the ID to clipboard or select/add the selected ID, respectively
+--- Packet Sender: automatic packet separation of the header and timestamp+data and size detection; only works with raw, spaced out packets
+- added Thread Spoof Mode to Auto Assembler tab and Instant Packet Sender to Packet Sender tab [requires Thread Spoof Mode] (credits/updated by Raymond)
+- added Map IDs to ID Search (fetch file from the internet)
+- updated the second Skill Injection resource redirect to Aeternum's "Injectable Skills and FMA" thread
+- fixed a minor issue where No Catch Breath would still be enabled even after being disabled
 
-v0.7.2 update issues:
+v0.7.3 update issues:
 - None reported
