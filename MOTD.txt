@@ -1,7 +1,9 @@
 Welcome to Simple Trainer
 
-[Tune Up Patch - GMS v188.2 - Trainer ver v0.7.3]
-This patch broke a few AoBs and I have updated what I could. However, it is possible you can run into crashing issues with some of them, so please report back *specifically* what is causing your crash. Look to the 'update issues' section of the Changelog on the right for known issues.
+[Tune Up Patch - GMS v188.2 - Trainer ver 0.7.3]
+This patch broke a few AoBs and I have updated what I could. However, it is possible you could run into crashing issues with some of the updated hacks, so please report back *specifically* what is causing your crash. Look at the 'update issues' section of the Changelog on the right for known issues.
+
+The Profile System has been disabled for the time being due to problems arising if you enabled non-updated hacks through it.
 
 #####################################################################
 [v0.7.3 upgrade]
