@@ -1,7 +1,7 @@
 Welcome to Simple Trainer
 
 [Tune Up Patch - GMS v188.2 - Trainer ver v0.7.3]
-This patch broke a few AoBs and I have updated what I could. However, it is possible you can run into crashing issues with some of them, so please report back *specifically* what is causing your crash.
+This patch broke a few AoBs and I have updated what I could. However, it is possible you can run into crashing issues with some of them, so please report back *specifically* what is causing your crash. Look to the 'update issues' section of the Changelog on the right for known issues.
 
 #####################################################################
 [v0.7.3 upgrade]
