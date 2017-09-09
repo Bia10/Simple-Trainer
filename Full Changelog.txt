@@ -1,6 +1,10 @@
-v0.7.4: (expected release: 9/9/17)
+v0.7.4: (9/9/17)
 - initial update to GMS v188.3
 - removed Auto Gateway
+- added Map Fly, Map Swim, Auto Rune, Auto AP, Force Summons to do Normal Attack, Beholder Infinite Heal, Beholder Infinite Buff, Force Beholder Action, Mob Control, Monster Mind Control, DupeX, MSCRC Bypass (all credits to Korgon)
+--- Profile saving currently does not support these
+- updated Orbital Flame FMA
+- added tabs: Injection, Other
 
 v0.7.3r1: (9/2/17)
 - fixed Skill Injection, Pet Feed (Home Key), Packet Pet Feed, Infinite Familiar
