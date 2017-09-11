@@ -1,3 +1,11 @@
+v0.7.5: (expected release: TBA)
+- fixed Full Map Loot, Pet Feed (Home key), Force Summons to do Normal Attack
+- added Spoof Char Position, Do Rune from Afar, Unlimited Summons + Time
+- Injection tab updated
+--- added Melee, Magic, Shoot, Body, Dragon Magic, and Dragon Shoot-type Injections
+- Profile System now saves the new hacks in v0.7.4 and v0.7.5, and you can now have up to 10 profiles saved
+- fixed a few minor trainer issues
+
 v0.7.4: (9/9/17)
 - initial update to GMS v188.3
 - removed Auto Gateway
