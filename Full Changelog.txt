@@ -1,5 +1,5 @@
-v0.7.5: (expected release: TBA)
-- fixed Full Map Loot, Pet Feed (Home key), Force Summons to do Normal Attack
+v0.7.5: (9/12/17)
+- initial update to GMS v188.4
 - added Spoof Char Position, Do Rune from Afar, Unlimited Summons + Time
 - Injection tab updated
 --- added Melee, Magic, Shoot, Body, Dragon Magic, and Dragon Shoot-type Injections
