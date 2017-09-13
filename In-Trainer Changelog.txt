@@ -1,15 +1,15 @@
 Latest Simple Trainer Changelog
 =============================
 
-v0.7.4: (9/9/17)
-- initial update to GMS v188.3
-- removed Auto Gateway
-- added Map Fly, Map Swim, Auto Rune, and more (all credits to Korgon)
---- Profile saving currently does not support these
-- updated Orbital Flame FMA
-- added tabs: Injection, Other
+v0.7.5: (9/12/17)
+- initial update to GMS v188.4
+- added Spoof Char Position, Do Rune from Afar, Unlimited Summons + Time
+- Injection tab updated
+--- added Melee, Magic, Shoot, Body, Dragon Magic, and Dragon Shoot-type Injections
+- Profile System now saves the new hacks in v0.7.4 and v0.7.5, and you can now have up to 10 profiles saved
+- fixed a few minor trainer issues
 
-v0.7.4 update issues:
+v0.7.5 update issues:
 - Damage Skin Changer (not working)
-- Auto AP (not working)
-- Auto Rune (crashes)
+- Auto Channel (not working)
+- all Kami(?) (crashes)
