@@ -1,3 +1,9 @@
+v0.7.6: (in the works; no release date)
+- applied a fix to "old" profiles being loaded causes "new hacks" to be enabled if those are not saved in the loaded profile
+- additional disclaimer/confirmation added to Orbital Flame FMA
+- removed Lemmings 2 & 3 options from Mob Control
+- updated certain help hints
+
 v0.7.5: (9/12/17)
 - initial update to GMS v188.4
 - added Spoof Char Position, Do Rune from Afar, Unlimited Summons + Time
