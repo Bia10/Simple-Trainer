@@ -1,9 +1,10 @@
 Welcome to Simple Trainer
 
 #####################################################################
-IMPORTANT:
-- Orbital Flame FMA may cause auto bans (avoid using when over Lv 100). Use at your own risk.
-- Mob Vac auto bans now (for certain classes)! Use at your own risk.
+IMPORTANT NEWS:
+- [9/15/17] Reports of Generic FMA causing auto bans on certain classes (Blaster, Aran, Lumi, others)! Use at your own risk until things can be 100% confirmed!
+- [9/15/17] Orbital Flame FMA may cause auto bans (avoid using when over Lv 100). Use at your own risk.
+- [9/15/17] Mob Vac auto bans now (for certain classes)! Use at your own risk.
 #####################################################################
 
 v0.7.5 is now LIVE! Download via trainer thread.
