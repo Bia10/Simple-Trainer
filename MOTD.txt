@@ -2,13 +2,13 @@ Welcome to Simple Trainer
 
 #####################################################################
 IMPORTANT NEWS:
-- [9/16/17] There is currently a problem with pre-v0.7.5 profiles (in v0.7.5) auto enabling newly added hacks to the Save system. Please avoid loading these profiles for the momemnt. You can always save a new profile.
+- [9/16/17] [FIXED in v0.7.6] There is currently a problem with pre-v0.7.5 profiles (in v0.7.5) auto enabling newly added hacks to the Save system. Please avoid loading these profiles for the momemnt. You can always save a new profile.
 - [9/15/17] Reports of Generic FMA causing auto bans on certain classes (Blaster, Aran, Lumi, others)! Use at your own risk until things can be 100% confirmed!
 - [9/15/17] Orbital Flame FMA may cause auto bans (avoid using when over Lv 100). Use at your own risk.
 - [9/15/17] Mob Vac auto bans now (for certain classes)! Use at your own risk.
 #####################################################################
 
-v0.7.5 is now LIVE! Download via trainer thread.
+v0.7.6 is now LIVE! Download via trainer thread.
 
 If you need help:
 - Hover over hacks for hints first
