@@ -2,6 +2,7 @@ v0.7.6: (9/16/17)
 - fixed Auto Channel, Kami + Loot, Knockback Function
 - applied a fix to "old" profiles being loaded causes "new hacks" to be enabled if those are not saved in the loaded profile
 - additional disclaimer/confirmation added to Orbital Flame FMA and Generic FMA
+- \Core\ files Items.stfile and Mobs.stfile has been updated with v188.4 IDs
 - removed Lemmings 2 & 3 options from Mob Control
 - updated certain help hints
 
