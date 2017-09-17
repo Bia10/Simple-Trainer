@@ -1,15 +1,13 @@
 Latest Simple Trainer Changelog
 =============================
 
-v0.7.5: (9/12/17)
-- initial update to GMS v188.4
-- added Spoof Char Position, Do Rune from Afar, Unlimited Summons + Time
-- Injection tab updated
---- added Melee, Magic, Shoot, Body, Dragon Magic, and Dragon Shoot-type Injections
-- Profile System now saves the new hacks in v0.7.4 and v0.7.5, and you can now have up to 10 profiles saved
-- fixed a few minor trainer issues
+v0.7.6: (9/16/17)
+- fixed Auto Channel, Kami + Loot, Knockback Function
+- applied a fix to the profile system
+- additional disclaimer/confirmation added to Orbital Flame FMA and Generic FMA
+- \Core\ files Items.stfile and Mobs.stfile has been updated with v188.4 IDs
+- other changes; see trainer thread
 
-v0.7.5 update issues:
+v0.7.6 update issues:
 - Damage Skin Changer (not working)
-- Auto Channel (not working)
-- all Kami(?) (crashes)
+- Sprux Kami and Portal Kami (crashes)
