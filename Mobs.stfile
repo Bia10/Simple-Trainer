@@ -64,7 +64,7 @@
 2150001 // Dust Box
 2150002 // Streetlight
 2150003 // Patrol Robot S
-2220000 // Mano
+2220000 // Mano 
 2220100 // Blue Mushroom
 2220110 // Crying Blue Mushroom
 2230100 // Evil Eye
@@ -513,7 +513,7 @@
 2600310 // Red Flower Serpent
 2600311 // Giant Centipede
 2600312 // Grizzly
-2600313 // Reindeer
+2600313 // Cute Reindeer
 2600314 // Peach Monkey
 2600315 // Panda
 2600316 // Tae Roon
@@ -704,7 +704,7 @@
 3000005 // Brown Teddy
 3000006 // Krip
 3000007 // Royal Fairy
-3100101 // Sand Dwarf
+3100101 // Sand Dwarf 
 3100102 // Kiyo
 3110100 // Ligator
 3110101 // Pink Teddy
@@ -773,9 +773,9 @@
 3400001 // Mango Bubble Tea
 3400002 // Melon Bubble Tea
 3400003 // Yeti Doll Claw Game
-3400004 // Yeti Doll
+3400004 // Yeti Doll  
 3400005 // Jr. Pepe Doll Claw Game
-3400006 // Jr. Pepe Doll
+3400006 // Jr. Pepe Doll  
 3400007 // Transformed Doll Claw Game
 3400008 // Transformed Doll Claw Game
 3401000 // Palm Tree Slime
@@ -872,7 +872,7 @@
 4230137 // White Robosaucer
 4230138 // Black Robosaucer
 4230139 // OMNI-CLN
-4230140 // 바나드 그레이
+4230140 // Barnard Gray
 4230141 // [*] Gray Commuter Saucer
 4230142 // [*] Gray Luxury Saucer
 4230200 // Poopa
@@ -886,7 +886,7 @@
 4230504 // Red Flower Serpent
 4230505 // Jar
 4230506 // Ginseng Jar
-4230600 // Desert Giant
+4230600 // Desert Giant 
 4240000 // Chief Gray
 4250000 // Mossy Snail
 4250001 // Tree Rod
@@ -906,7 +906,7 @@
 4300013 // Spirit of Rock
 4300014 // Greatest Oldies
 4300015 // Cheap Amplifier
-4300016 // Fancy Amplifier
+4300016 // Fancy Amplifier 
 4300017 // Spirit of Rock's Soul
 4310000 // Greatest Oldies Album
 4310001 // Latest Hits Album
@@ -952,7 +952,7 @@
 5100202 // Heroic Hogul
 5100203 // Goblin
 5110300 // Reinforced Mithril Mutae
-5110301 // Roid
+5110301 // Roid 
 5110302 // Neo Huroid
 5120000 // Luster Pixie
 5120001 // Cellion
@@ -964,7 +964,7 @@
 5120502 // Sr. Bellflower Root
 5120503 // Straw Target Dummy
 5120504 // Wooden Target Dummy
-5120505 // Reindeer
+5120505 // Cute Reindeer
 5120506 // The Book Ghost
 5120507 // Gigantic Bellflower Root
 5130100 // Drake
@@ -1042,7 +1042,7 @@
 6230201 // Separated Dark Pepe
 6230300 // [*]Lazy Buffy
 6230400 // [*]Soul Teddy
-6230401 // Jr. Lucida
+6230401 // Jr. Lucida 
 6230500 // [*]Master Soul Teddy
 6230600 // Ice Drake
 6230601 // Dark Drake
@@ -1358,7 +1358,7 @@
 8230024 // Bone Fish
 8230025 // Bombing Fish House
 8230026 // Neon Bat
-8230027 // Reindeer
+8230027 // Cute Reindeer
 8230028 // Bellflower Root
 8230029 // Peach Monkey
 8230030 // Cygnus Bowman
@@ -1600,11 +1600,11 @@
 8250036 // Blue Dynamo
 8250037 // Green Dynamo
 8250038 // Yellow Dynamo
-8300000 // Soaring Hawk
+8300000 // Soaring Hawk 
 8300001 // Soaring Eagle
-8300002 // Soaring Red Wyvern
-8300003 // Soaring Blue Wyvern
-8300004 // Soaring Black Wyvern
+8300002 // Soaring Red Wyvern 
+8300003 // Soaring Blue Wyvern 
+8300004 // Soaring Black Wyvern 
 8300005 // Soaring Griffey
 8300006 // Dragonoir
 8300007 // Dragon Rider
@@ -1784,11 +1784,11 @@
 8643016 // Red-eyed Gargoyle
 8643017 // Red-eyed Gargoyle
 8643018 // Red-eyed Gargoyle
-8644000 // 물의 정령
+8644000 // Water Spirit
 8644001 // Sun Spirit
-8644002 // 흙의 정령
+8644002 // Earth Spirit
 8644003 // Snow Cloud Spirit
-8644004 // 번개구름의 정령
+8644004 // Thunder Cloud Spirit
 8644005 // Toxic Spirit
 8644006 // Volatile Spirit
 8644007 // Befuddled Spirit
@@ -1796,17 +1796,17 @@
 8644009 // Mournful Spirit
 8644010 // Discordant Spirit
 8644011 // Corrupt Spirit of Harmony
-8644012 // 정령의 잔해
-8644013 // 정령의 잔해
+8644012 // Spirit Debris
+8644013 // Spirit Debris
 8644014 // Snow Cloud Spirit
-8644015 // 번개구름의 정령
+8644015 // Thunder Cloud Spirit
 8644016 // Befuddled Spirit
 8644017 // Anguished Spirit
 8644018 // Mournful Spirit
 8644019 // Discordant Spirit
-8644020 // 물의 정령
-8644021 // 바위
-8800000 // Zakum1
+8644020 // Water Spirit
+8644021 // Rock
+8800000 // Zakum
 8800001 // Zakum2
 8800002 // Zakum
 8800003 // Zakum's Arm 1
@@ -1911,7 +1911,7 @@
 8810101 // Chaos Horntail's Right Head
 8810102 // Chaos Horntail's Head A
 8810103 // Chaos Horntail's Head B
-8810104 // Chaos Horntail's Head C
+8810104 // Chaos Horntail's Head C 
 8810105 // Chaos Horntail's Left Hand
 8810106 // Chaos Horntail's Right Hand
 8810107 // Chaos Horntail's Wings
@@ -2157,20 +2157,20 @@
 8880177 // Final Music Box
 8880178 // Nightmare Butterfly
 8880179 // Nightmare Butterfly
-8880180 // 악몽의 골렘
+8880180 // Nightmare Golem
 8880181 // Nightmare Golem
 8880182 // Nightmare Golem
 8880183 // Nightmare Golem
 8880184 // Nightmare Mushroom
-8880185 // 악몽의 독버섯
+8880185 // Nightmare Mushroom
 8880190 // Dreaming Lucid
 8880191 // Lucid
-8880192 // 악몽의 골렘
-8880193 // 악몽의 골렘
-8880194 // 악몽의 골렘
-8880195 // 악몽의 골렘
-8880196 // 악몽의 꽃
-8880197 // 오르골
+8880192 // Nightmare Golem
+8880193 // Nightmare Golem
+8880194 // Nightmare Golem
+8880195 // Nightmare Golem
+8880196 // Nightmare Flower
+8880197 // Music Box
 8880200 // OMNI-CLN
 8880201 // Wipe-O-Matic
 8880202 // Dr. Zindelblarp
@@ -2481,6 +2481,69 @@
 9010146 // Party Punk Bronze Meso
 9010147 // Party Punk Silver Meso
 9010148 // Party Punk Gold Meso
+9010149 // Invisible Ghost
+9010150 // Spirit of Haven
+9010151 // Broken Honey Pot
+9010152 // [프로즌 링크] 블러드 하프
+9010153 // [프로즌 링크] 듀얼 버크
+9010154 // [프로즌 링크] 검은 켄타우로스
+9010155 // [프로즌 링크] 소울테니
+9010156 // [프로즌 링크] 기간틱 바이킹
+9010157 // [프로즌 링크] 타나토스
+9010158 // [프로즌 링크] 프로즌 로즈
+9010159 // [프로즌 링크] 파이어독
+9010160 // [프로즌 링크] 다크 와이번
+9010161 // [프로즌 링크] 스켈레곤
+9010162 // [프로즌 링크] 스켈로스
+9010163 // [프로즌 링크] 증기뿜는 커피머신
+9010164 // [프로즌 링크] 망각의 신관
+9010165 // [프로즌 링크] 망각의 수호대장
+9010166 // [프로즌 링크] 정식기사B
+9010167 // [프로즌 링크] 정식기사E
+9010168 // [프로즌 링크] 뉴그레이 블랙
+9010169 // [프로즌 링크] 변형된 스텀프
+9010170 // [프로즌 링크] 변형된 파이어보어
+9010171 // [프로즌 링크] 에이션트 다크골렘
+9010172 // [프로즌 링크] 기쁨의 에르다스
+9010173 // [프로즌 링크] 화염의 에르다스
+9010174 // [프로즌 링크] 파인디어
+9010175 // [프로즌 링크] 라이터틀
+9010176 // [프로즌 링크] 종이봉투 뒷골목주민
+9010177 // [프로즌 링크] 춤추는 빨간구두
+9010178 // [프로즌 링크] 물의 정령
+9020000 // BlackBeanFan77
+9020001 // GrinningReaper
+9020002 // CorpsLeaderZing
+9020003 // SkoolkidAria
+9020004 // DutchmansCapn
+9020005 // OnePunchMonkey
+9020006 // PuzzledPinkPachy
+9020007 // RlaxOwns87
+9020008 // FarmerDigi
+9020009 // FlamingFlint23
+9020010 // MultiverseDefender
+9020011 // ChefJeffers
+9020012 // WallStreetDeni
+9020013 // BambooWarriorDude
+9020014 // RainySprout
+9020015 // Mallowphant38
+9020016 // CarrotCakeShakeup
+9020017 // GalNxtDoor
+9020018 // FlameyBennu
+9020019 // ChromeButter
+9020020 // OceanSwordFisher
+9020021 // SmackdownChamp
+9020022 // CampingBuff102
+9020023 // DewSprout
+9020024 // LiveLoveCheer56
+9020025 // BBaller2017
+9020026 // Unbreakable91
+9020027 // PeppyPippi
+9020028 // AmaRilloFox
+9020029 // PancakesAreLife22
+9020030 // Again2002
+9020031 // SouthPoleXplorer
+9020032 // CandyStripesHealer
 9100000 // Super Slime
 9100001 // Super Jr. Necki
 9100002 // Super Stirge
@@ -2494,7 +2557,7 @@
 9100010 // Mr. Black Sheep
 9100011 // Orange Mushroom
 9100012 // Shade
-9100013 // Adin
+9100013 // Adin 
 9100014 // Strange Axe Stump
 9100015 // Powerful Evil Eye
 9100016 // Powerful Curse Eye
@@ -2543,18 +2606,18 @@
 9101010 // King Clang
 9101011 // Nine-Tailed Fox
 9101012 // Zeno
-9101013 // Lv. 13 // 30 Monsters
-9101014 // Lv. 31 // 50 Monsters
-9101015 // Lv. 51 // 70 Monsters
-9101016 // Lv. 71 // 90 Monsters
-9101017 // Lv. 91 // 110 Monsters
-9101018 // Lv. 111 // 130 Monsters
-9101019 // Lv. 131 // 150 Monsters
+9101013 // Lv. 13 - 30 Monsters
+9101014 // Lv. 31 - 50 Monsters
+9101015 // Lv. 51 - 70 Monsters
+9101016 // Lv. 71 - 90 Monsters
+9101017 // Lv. 91 - 110 Monsters
+9101018 // Lv. 111 - 130 Monsters
+9101019 // Lv. 131 - 150 Monsters
 9101020 // Lv. 151+ Monsters
-9101021 // Monster Park Boss (Lv. 60 // 114)
-9101022 // Monster Park Boss (Lv. 115 // 159)
+9101021 // Monster Park Boss (Lv. 60 - 114)
+9101022 // Monster Park Boss (Lv. 115 - 159)
 9101023 // Monster Park Boss (Lv. 160+)
-9101024 // Lv. 10 // 30 Monsters
+9101024 // Lv. 10 - 30 Monsters
 9101025 // Monsters Near Your Level
 9101026 // Golden Dream Pig
 9101027 // Hard Mode Guardian Tower
@@ -2605,10 +2668,30 @@
 9101087 // Arma's Follower
 9101088 // Frost Fiends Monster
 9101089 // Dragon Whelp
-9101090 // 배고픈 무토 몬스터
+9101090 // Hungry Muto Monster
 9101091 // Dream Defender Monster
-9101092 // 타르가
-9101093 // 스칼리온
+9101092 // Targa
+9101093 // Scarboss
+9101094 // Churmble Monster
+9101095 // Eluna Monsters
+9101096 // Ellinel Fairy Academy Monsters
+9101097 // Mushroom Castle Vikings
+9101098 // Orbis Monsters
+9101099 // Aqua Road Monsters
+9101100 // Ice Valley Wolves
+9101101 // Desert Rabbits
+9101102 // Ellin Forest Monsters
+9101103 // Ludibrium Monsters
+9101104 // Mu Lung Garden Monsters
+9101105 // Golden Temple Monsters
+9101106 // Memory Lane Monsters
+9101107 // Road of Regrets Monsters
+9101108 // Road to Oblivion Monsters
+9101109 // Kerning Tower Monsters
+9101110 // Lion King's Castle Monsters
+9101111 // Riena Strait Monsters
+9101113 // Obelisk Guardian
+9101115 // Deadly Biteysnek
 9200000 // Wild Boar
 9200001 // Fire Boar
 9200002 // Dark Stump
@@ -2760,14 +2843,14 @@
 9300125 // Lord Pirate's Captain
 9300126 // Lord Pirate's Enraged Ginseng Jar
 9300127 // Brown Teddy
-9300128 // Bloctopus
+9300128 // Bloctopus 
 9300129 // Ratz
-9300130 // Chronos
+9300130 // Chronos 
 9300131 // Toy Trojan
 9300132 // Tick-Tock
 9300133 // Robo
 9300134 // King Block Golem
-9300135 // Master Chronos
+9300135 // Master Chronos 
 9300136 // Rombot
 9300137 // Juliet
 9300138 // Romeo
@@ -2920,8 +3003,8 @@
 9300285 // Puppeteer
 9300286 // Dangerous Blue Mushroom
 9300287 // Snowman of Competence
-9300288 // Crimson Balrog of Competence
-9300289 // Snipe of Competence
+9300288 // Crimson Balrog of Competence 
+9300289 // Snipe of Competence 
 9300290 // Lilynouch of Competence
 9300291 // Advanced Manon
 9300292 // Advanced Griffey
@@ -2955,7 +3038,7 @@
 9300320 // Buffoon
 9300321 // Deep Buffoon
 9300322 // Ghost Pirate
-9300323 // Death Teddy
+9300323 // Death Teddy 
 9300324 // Viking
 9300325 // Cat Sleeping Spot
 9300326 // Unknown Jr. Balrog
@@ -2998,7 +3081,7 @@
 9300363 // Grii Gingerman
 9300364 // Sma Gingerman
 9300365 // Grii Gingerman
-9300366 // Grii Gingerman
+9300366 // Grii Gingerman 
 9300367 // Witch Bear
 9300368 // Witch Bear
 9300369 // Witch Bear
@@ -3020,7 +3103,7 @@
 9300385 // Treacherous Fox
 9300386 // Trainee Spore
 9300387 // Enraged Golem
-9300388 // Free Spirit
+9300388 // Free Spirit  
 9300389 // Safe Guard
 9300390 // Door Block
 9300391 // Ice Wall
@@ -3513,6 +3596,8 @@
 9300887 // Petit Phantom
 9300888 // Ghost Whale
 9300889 // Cave Bat
+9300890 // Awakened Spirit of Rock
+9300891 // Blue Ancient Slime
 9300900 // Ribbon Pig
 9300901 // Ribbon Pig
 9300902 // Spring Bunny
@@ -3572,6 +3657,7 @@
 9300968 // Tragos
 9300969 // Kephivara
 9300970 // Shammos
+9300971 // Giant Scorpion
 9302000 // Golden Pig
 9302001 // Golden Pig
 9302002 // Golden Pig
@@ -4018,12 +4104,12 @@
 9305651 // Fine Oak Scarecrow
 9305652 // Fake Oak Scarecrow
 9305653 // Pure Straw Scarecrow
-9305654 - Fine Straw Scarecrow
+9305654 // Fine Straw Scarecrow
 9305655 // Fake Straw Scarecrow
 9305656 // King Omen
 9305657 // Demolishizer
 9305658 // Ephenia
-9305659 4 //Xerxes
+9305659 // Xerxes
 9305660 // Targa
 9305661 // Scarboss
 9305662 // Ravana
@@ -4042,6 +4128,9 @@
 9305675 // Sondal
 9305676 // Gold Dragon
 9305677 // Red Tiger
+9305678 // Kemdi Scarecrow
+9305679 // So Gong Scarecrow
+9305680 // Netherworld Monk
 9306000 // System Monster N1
 9306001 // System Monster N2
 9306002 // System Monster N3
@@ -4658,7 +4747,7 @@
 9400509 // Sakura Cellion
 9400510 // Green Eggy Popp
 9400511 // Yellow Eggy Popp
-9400512 // Cake Mob (2nd)
+9400512 // Cake Mob (2nd) 
 9400513 // Deluxe Candle Monster
 9400514 // Geist Balrog Phase 3
 9400515 // Indigo Eye
@@ -4671,6 +4760,7 @@
 9400522 // B Slime
 9400523 // Evil Eye GL
 9400524 // Curse Eye GL
+9400525 // B Slime
 9400525 // Cold Eye GL
 9400526 // Fierry GL
 9400527 // Fire Boar GL
@@ -4895,16 +4985,16 @@
 9400798 // Wicked Witch of the Right-Side
 9400799 // Plump Turkey
 9400800 // Legendary Black Dragon
-9400802 // Galacto-Drill
+9400802 // Galacto-Drill 
 9400803 // Alien Cog
-9400804 // Alien Miner
+9400804 // Alien Miner 
 9400805 // Jr. Alien Cog
 9400806 // Alien Cog
 9400807 // Jr. Alien Miner
 9400808 // Alien Miner
-9400809 // Space Cop
-9400810 // Alien Cog
-9400811 // Alien Miner
+9400809 // Space Cop 
+9400810 // Alien Cog 
+9400811 // Alien Miner 
 9400812 // Pie Boss
 9400813 // Cake Boss
 9400900 // Pink Zakum
@@ -5151,7 +5241,40 @@
 9402186 // Camkitten
 9402187 // Guardroid Model 13
 9402188 // Aspire Security Guard
+9402190 // Cuddly Churmble
+9402191 // Beefy Churmble
+9402192 // Flappy Churmble
+9402193 // Toddling Churmble
+9402194 // Atlassian Crab
+9402195 // Atlassian Terror Crab
+9402196 // Snap Crystal
+9402197 // Elunite Elemental
+9402198 // Golem Minion
+9402199 // Deadly Biteysnek
+9402200 // Cuddly Churmble
+9402201 // Beefy Churmble
+9402202 // Flappy Churmble
+9402203 // Toddling Churmble
+9402204 // Geyser
+9402205 // Inactive Obelisk
+9402206 // Snap Crystal
 9402207 // Elunarium Deposit
+9402208 // Golem Minion
+9402209 // Challenge Horntail
+9402210 // Von Leon
+9402211 // Von Leon
+9402212 // Deadly Biteysnek
+9402216 // Cuddly Churmble
+9402217 // Beefy Churmble
+9402218 // Flappy Churmble
+9402219 // Toddling Churmble
+9402220 // Cuddly Churmble
+9402221 // Beefy Churmble
+9402222 // Flappy Churmble
+9402223 // Toddling Churmble
+9402224 // Snap Crystal
+9402225 // Combat Mushroom
+9402227 // Furious Gourdon Ritzy
 9409000 // TutorialMob1
 9409001 // TutorialMob2
 9409011 // Wild Monkey
@@ -5604,11 +5727,11 @@
 9421545 // マスターバク
 9421546 // ケンタウルスキング
 9421547 // チョコ
-9421548 // ヘロン
-9421549 // マーガナ
-9421550 // レリック
-9421551 // レッドニーグ
-9421552 // サーフ
+9421548 // ヘロン  
+9421549 // マーガナ 
+9421550 // レリック 
+9421551 // レッドニーグ 
+9421552 // サーフ 
 9421553 // スノウマン
 9421554 // ビシャスプラント
 9421555 // リーチ
@@ -5645,61 +5768,61 @@
 9421588 // Mori Ranmaru
 9421589 // Mori Ranmaru
 9430000 // Red Mask
-9430001 // Kobold
-9430002 // U Alien
-9430003 // D Kobold
+9430001 // Kobold 
+9430002 // U Alien 
+9430003 // D Kobold 
 9430004 // R Mini Bean
 9430005 // U Alien
-9430006 // R Kobold
+9430006 // R Kobold  
 9430007 // Orange Slime
 9430008 // U Alien
 9430009 // B Slime
 9430010 // U Alien
 9430011 // King Kobold
-9430012 // Y Mini Bean
+9430012 // Y Mini Bean 
 9430013 // U Alien
-9430014 // B Meso
-9430015 // B Visitor
-9430016 // U Visitor
-9430017 // S Visitor
-9430018 // T Bowman
-9430019 // Destroyer
+9430014 // B Meso 
+9430015 // B Visitor 
+9430016 // U Visitor 
+9430017 // S Visitor 
+9430018 // T Bowman  
+9430019 // Destroyer 
 9430020 // ULT Visitor
 9430021 // ULT Visitor
 9430022 // Alien TTOTF
 9430023 // Alien TTOTF
-9430024 // U Alien
+9430024 // U Alien 
 9430025 // BLU Mini Bean
-9430026 // T General
+9430026 // T General  
 9430027 // BLK Mini Bean
 9430028 // G Balrog
 9430029 // Alien TTOTF
-9430030 // S Meso
-9430031 // Nagrom
+9430030 // S Meso 
+9430031 // Nagrom  
 9430032 // Tr MA three
-9430033 // Red Nirg
-9430034 // T Swordsman
+9430033 // Red Nirg 
+9430034 // T Swordsman  
 9430035 // UD Alien
-9430036 // A Ocelot
-9430037 // T Spearman
-9430038 // Astaroth
-9430039 // Margana
-9430040 // G Mini Bean
-9430041 // Hsalf
-9430042 // B Silk Thief
-9430043 // T Crossbowman
+9430036 // A Ocelot  
+9430037 // T Spearman 
+9430038 // Astaroth 
+9430039 // Margana  
+9430040 // G Mini Bean 
+9430041 // Hsalf 
+9430042 // B Silk Thief 
+9430043 // T Crossbowman 
 9430044 // Tr MA one
 9430045 // Tr MA two
 9430046 // Tr MA four
-9430047 // Mini S Meso
+9430047 // Mini S Meso 
 9430048 // P Mini Bean
-9430049 // G Meso
-9430050 // M Artist
-9430051 // G Martial
-9430052 // G Giant
-9430053 // S Giant
-9430054 // S Spearman
-9430055 // Rellik
+9430049 // G Meso  
+9430050 // M Artist 
+9430051 // G Martial 
+9430052 // G Giant  
+9430053 // S Giant 
+9430054 // S Spearman 
+9430055 // Rellik  
 9430056 // S Phoenix
 9430057 // B Staffman
 9430058 // B Martial
@@ -5761,7 +5884,7 @@
 9450060 // Eight Trigrams of Power
 9450061 // Eight Trigrams of Power
 9450062 // Mikagami
-9450063 // Renka
+9450063 // Renka 
 9450064 // Oura Shogun
 9450065 // Miroku
 9450066 // Princess No
@@ -5793,7 +5916,7 @@
 9480004 // Helmsman Gorilla
 9480005 // Navigator Otter
 9480006 // Lookout Parrot
-9480010 // Mano
+9480010 // Mano 
 9480011 // Mushmom
 9480012 // Stumpy
 9480013 // Dyle
@@ -6129,8 +6252,8 @@
 9500179 // Transformed Snack Bar
 9500180 // Papulatus
 9500181 // Papulatus
-9500182 // Watermelon Guard Hogol
-9500183 // Watermelon Guard Hogol
+9500182 // Watermelon Guard Hogol 
+9500183 // Watermelon Guard Hogol 
 9500184 // Rideword P
 9500185 // Rideword Y
 9500186 // Rideword B
@@ -6231,7 +6354,7 @@
 9500376 // Jr. Newtie
 9500377 // Nest Golem
 9500378 // Blue Dragon Turtle
-9500379 // Red Dragon Turtle
+9500379 // Red Dragon Turtle 
 9500380 // Skelegon
 9500381 // Skelosaurus
 9500382 // Leviathan
@@ -6364,7 +6487,7 @@
 9500519 // White Team Tae Roon
 9500520 // Goodie Ball
 9500521 // Goodie Ball
-9500522 // Transparent Blue Team Tae Roon
+9500522 // Transparent Blue Team Tae Roon 
 9500523 // Transparent White Team Tae Roon
 9500524 // Transparent White Team Tae Roon
 9500525 // Transparent White Team Tae Roon
@@ -6375,7 +6498,7 @@
 9500530 // Moon Bunny Twin
 9500531 // Pumpkin Bat
 9500532 // Snow Giant
-9500533 // Draco Uncle Black Dragon
+9500533 // Draco Uncle Black Dragon 
 9500534 // Draco Uncle Black Dragon Transparent
 9500535 // Magnus
 9500536 // Arkarium
@@ -6587,7 +6710,7 @@
 9600318 // Diabolic Jiangshi
 9601000 // 蛇
 9601001 // 刺鳍鱼
-9601002 // 白雪人
+9601002 // 白雪人 
 9601007 // Wukong
 9601008 // Sondal
 9601009 // Alang
@@ -7083,7 +7206,7 @@
 9833101 // Spark Dragon
 9833102 // Bruiser Dragon
 9833103 // Armored Dragon
-9833104 // 해머 드래곤
+9833104 // Hammer Dragon
 9833105 // Flamehorn Dragon
 9833106 // Red Dragon Whelp
 9833107 // Blue Dragon Whelp
@@ -7094,7 +7217,7 @@
 9833201 // Spark Dragon
 9833202 // Bruiser Dragon
 9833203 // Armored Dragon
-9833204 // 해머 드래곤
+9833204 // Hammer Dragon
 9833205 // Flamehorn Dragon
 9990000 // No Element
 9990001 // Mammal
