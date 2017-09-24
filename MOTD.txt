@@ -9,6 +9,8 @@ IMPORTANT NEWS:
 - [9/15/17] Mob Vac auto bans now (for certain classes)! Use at your own risk.
 #####################################################################
 
+Notice: Development on Simple Trainer will be on hold for a short time. The next update is expected to be released a short while after the next MapleStory patch. If you want to support the trainer, do leave a donation :)
+
 v0.7.6 is now LIVE! Download via trainer thread.
 
 If you need help:
