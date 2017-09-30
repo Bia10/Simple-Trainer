@@ -1,3 +1,11 @@
+v0.7.7: (unknown release date)
+- fixed a long unreported issue where Player X/Y values were off by 1
+- certain hack help hints have been updated
+- disclaimers/confirmations for certain hacks now reflect the hack name in the warning
+--- per basis disclaimers/confirmations now added for Generic/Air Hit/Custom Mob Vacs, Tubi, Full Map Loot, and Block Character Movement (Packet)
+- added Quick Access box to Injection tab
+- finally updated the Memo Pad pre-defined text
+
 v0.7.6: (9/16/17)
 - fixed Auto Channel, Kami + Loot, Knockback Function
 - applied a fix to "old" profiles being loaded causing "new hacks" to be enabled if those are not saved in the loaded profile
