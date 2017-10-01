@@ -5,6 +5,8 @@ v0.7.7: (unknown release date)
 --- per basis disclaimers/confirmations now added for Generic/Air Hit/Custom Mob Vacs, Tubi, Full Map Loot, and Block Character Movement (Packet)
 - added Quick Access box to Injection tab
 - finally updated the Memo Pad pre-defined text
+--- you can now reset the Memo Pad to the default pre-defined text
+- you can now copy Player X/Y to clipboard by double-clicking the Information (and all others are now double-click; previously single click)
 
 v0.7.6: (9/16/17)
 - fixed Auto Channel, Kami + Loot, Knockback Function
