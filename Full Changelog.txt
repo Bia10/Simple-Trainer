@@ -1,4 +1,4 @@
-v0.7.7: (10/6/17)
+v0.7.7: (TBA)
 - fixed a long unreported issue where Player X/Y values were off by 1
 - fixed an issue where Psychic Grab FMA would not turn off even when disabled
 - certain hack help hints have been updated
