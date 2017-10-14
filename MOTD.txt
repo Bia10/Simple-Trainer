@@ -2,7 +2,7 @@ Welcome to Simple Trainer
 
 #####################################################################
 IMPORTANT NEWS:
-- [9/18/17] For the latest trainer stability and bugs fixes, please upgrade to v0.7.6 if not already done so.
+- [10/14/17] Reports of auto bans for Kanna class. Avoid playing a Kanna at this time.
 - [9/18/17] Report of Map Fly/Swim auto bans in certain maps. Use at your own risk. Help hint will be updated next version.
 - [9/15/17] Reports of Generic FMA causing auto bans on certain classes (Blaster, Aran, Lumi, others)! Use at your own risk.
 - [9/15/17] Orbital Flame FMA may cause auto bans (small maps may be ok; avoid using when over Lv 100). Use at your own risk.
