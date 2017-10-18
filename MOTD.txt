@@ -1,5 +1,7 @@
 Welcome to Simple Trainer
 
+[DOWNTIME NOTICE] Simple Trainer will not be accessible starting October 18, 2017 at approximately 6 am PDT due to the game update to GMS v189. Simple Trainer will continue to be down until it is updated. Please be patient during this time, which may take up to 3 days for the initial release.
+
 #####################################################################
 IMPORTANT NEWS:
 - [10/14/17] Reports of auto bans for Kanna class. Avoid playing a Kanna at this time.
