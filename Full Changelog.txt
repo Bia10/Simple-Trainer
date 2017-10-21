@@ -4,6 +4,8 @@ v0.7.7: (10/21/17)
 - Profile System changes:
 --- Newly saved profiles now show a "Last modified" timestamp (old profiles will not have a timestamp shown)
 --- Profile names no longer accepts any space characters, and leading/trailing spaces are removed in the name when saved
+- removed arrow keys from Auto Key and Kami since they don't work
+- 'Guard' godmode renamed to 'Miss' godmode
 - fixed a long unreported issue where Player X/Y values were off by 1
 - fixed an issue where Psychic Grab FMA would not turn off even when disabled
 - certain hack help hints have been updated
