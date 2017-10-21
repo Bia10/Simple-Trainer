@@ -1,9 +1,9 @@
-v0.7.7: (TBA)
+v0.7.7: (10/21/17)
 - initial update to GMS v189.1
 - 'Terminate MapleStory' safety option now disables with 'Disable All'
 - Profile System changes:
---- Newly saved profiles now show a "Last modified" timestamp
---- Profile names no longer accepts only spaces, and leading/trailing spaces are removed in the name when saved
+--- Newly saved profiles now show a "Last modified" timestamp (old profiles will not have a timestamp shown)
+--- Profile names no longer accepts any space characters, and leading/trailing spaces are removed in the name when saved
 - fixed a long unreported issue where Player X/Y values were off by 1
 - fixed an issue where Psychic Grab FMA would not turn off even when disabled
 - certain hack help hints have been updated
