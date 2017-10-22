@@ -1,0 +1,3 @@
+This version of Simple Trainer does not support the latest Global MapleStory version. Please be patient while Simple Trainer is updated. A notice will appear the next time you start the trainer if a new version is ready.
+
+Consider supporting this project by donating via the link found on the trainer thread, or click "Donate" in the top menu of the trainer when it has updated.
