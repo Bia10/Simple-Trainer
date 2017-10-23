@@ -1,19 +1,16 @@
 Welcome to Simple Trainer
 
-[DOWNTIME NOTICE] Simple Trainer will not be accessible starting October 18, 2017 at approximately 6 am PDT due to the game update to GMS v189. Simple Trainer will continue to be down until it is updated. Please be patient during this time, which may take up to 3 days for the initial release.
-
 #####################################################################
 IMPORTANT NEWS:
-- [10/14/17] Reports of auto bans for Kanna class. Avoid playing a Kanna at this time.
-- [9/18/17] Report of Map Fly/Swim auto bans in certain maps. Use at your own risk. Help hint will be updated next version.
-- [9/15/17] Reports of Generic FMA causing auto bans on certain classes (Blaster, Aran, Lumi, others)! Use at your own risk.
-- [9/15/17] Orbital Flame FMA may cause auto bans (small maps may be ok; avoid using when over Lv 100). Use at your own risk.
-- [9/15/17] Mob Vac auto bans now (for certain classes)! Use at your own risk.
+- [10/23/17] Reports of auto bans for Kanna class. Avoid playing a Kanna at this time.
+- [10/23/17] Reports of Generic FMA causing auto bans on certain classes (Blaster, Aran, Lumi, others)! Use at your own risk.
+- [10/23/17] Orbital Flame FMA may cause auto bans (small maps may be ok; avoid using when over Lv 100). Use at your own risk.
+- [10/23/17] Mob Vac auto bans [for certain classes]! Use at your own risk.
 #####################################################################
 
-Notice: Development on Simple Trainer will be on hold for a short time. The next update is expected to be released a short while after the next MapleStory patch. If you want to support the trainer, do leave a donation :)
+If you want to support the trainer, do leave a donation :)
 
-v0.7.6 is now LIVE! Download via trainer thread.
+v0.7.7 is now LIVE! Download via trainer thread.
 
 If you need help:
 - Hover over hacks for hints first
