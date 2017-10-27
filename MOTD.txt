@@ -15,7 +15,7 @@ If you want to support the trainer, do leave a donation :)
 
 v0.7.7r1 is now LIVE! Download via trainer thread.
 
-==========================[FUTURE UPDATES]==========================
+======================[FUTURE UPDATES]======================
 Simple Trainer has undergone several UI updates and introduced several different functions since the launch of v0.4.9 back in June. You may not see it, but the trainer is now too full of things. Therefore, in the updates to come, Simple Trainer will be optimizing certain existing functions while removing some relatively un-used hacks. As well, Simple Trainer will also undergo a UI rework some time in the future, along with the renaming of the trainer (not yet decided).
 
 The following features are planned to be optimized:
@@ -29,7 +29,7 @@ The following features are planned to be removed:
 - Custom Mob Vac
 
 If you have feedback for the future of Simple Trainer, leave your suggestion in the trainer's thread.
-====================================================================
+============================================================
 
 If you need help:
 - Hover over hacks for hints first
