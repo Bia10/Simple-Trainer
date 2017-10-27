@@ -1,0 +1,13 @@
+Simple Trainer has undergone several UI updates and introduced several different functions since the launch of v0.4.9 back in June. You may not see it, but the trainer is now too full of things. Therefore, in the updates to come, Simple Trainer will be optimizing certain existing functions while removing some relatively un-used hacks. As well, Simple Trainer will also undergo a UI rework some time in the future, along with the renaming of the trainer (not yet decided). In addition, Simple Trainer will begin to monetize certain aspects, including, but not limited to: links to download and redirecting links.
+
+The following features are planned to be optimized:
+- Avoid D/C Ban
+- Disable Vac/SI on Map change
+- Auto Assembler
+
+The following features are planned to be removed:
+- Auto Cube Equips
+- Mechanic hacks
+- Custom Mob Vac
+
+If you have feedback for the future of Simple Trainer, leave your suggestion in the trainer's thread.
