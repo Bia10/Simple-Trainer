@@ -1,3 +1,8 @@
+v0.7.8: (TBA)
+- initial update to GMS v189.2
+- additional disclaimer/confirmation added to Map Speed Up
+- added No Mesos Allowed option to custom Item Filter
+
 v0.7.7r1: (10/23/17)
 - fixed Skill Injection(s), Auto Rune Key Input
 
