@@ -1,4 +1,4 @@
-v0.7.8: (TBA)
+v0.7.8: (10/28/17)
 - initial update to GMS v189.2
 - additional disclaimer/confirmation added to Map Speed Up
 - added No Mesos Allowed option to custom Item Filter
