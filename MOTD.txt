@@ -1,7 +1,5 @@
 Welcome to Simple Trainer
 
-[DOWNTIME NOTICE] MapleStory is scheduled to update to GMS v189.2 on October 26, 2017 PDT: 5:00 AM – 11:00 AM. Access to Simple Trainer will be blocked some time during this patch, and will continue to be down until it is updated.
-
 #####################################################################
 IMPORTANT NEWS:
 - [10/28/17] Big changes are coming to the trainer in future updates. See below for more information.
@@ -16,9 +14,9 @@ If you want to support the trainer, do leave a donation :)
 v0.7.7r1 is now LIVE! Download via trainer thread.
 
 ==================[FUTURE UPDATES]==================
-Simple Trainer has undergone several UI updates and introduced several different functions since the launch of v0.4.9 back in June. You may not see it, but the trainer is now too full of things. Therefore, in the updates to come, Simple Trainer will be optimizing certain existing functions while removing some relatively un-used hacks. As well, Simple Trainer will also undergo a UI rework some time in the future, along with the renaming of the trainer (not yet decided). In addition, Simple Trainer will begin to monetize certain aspects, including, but not limited to: links to download and redirecting links.
+Simple Trainer has undergone several UI updates and introduced several different functions since the launch of v0.4.9 back in June. In the coming updates, Simple Trainer will be more optimized, including the removal of certain features/hacks. In addition, Simple Trainer will begin to monetize certain aspects such as links to download and redirecting links.
 
-Support the trainer and read more: http://twineer.com/8DSf
+Support the trainer and read more here: http://twineer.com/8DSf
 
 If you have feedback for the future of Simple Trainer, leave your suggestion in the trainer's thread.
 ====================================================
