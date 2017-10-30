@@ -1,13 +1,13 @@
 Latest Simple Trainer Changelog
 =============================
 
-v0.7.8: (10/28/17)
-- initial update to GMS v189.2
-- additional disclaimer/confirmation added to Map Speed Up
-- added No Mesos Allowed option to custom Item Filter
-- added Default v2-type Skill Injection
+v0.7.8r1: (10/30/17)
+- fixed Kami + Loot
+- disabled Full Map Loot and Block Character Movement
+- updated some help hints
 
-v0.7.8 update issues:
+v0.7.8r1 update issues:
+- Full Map Loot (not working; disabled)
 - Auto Channel (not working as intended)
 - Resolution Changer (not working)
 - Damage Skin Changer (not working)
