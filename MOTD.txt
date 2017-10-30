@@ -2,7 +2,7 @@ Welcome to Simple Trainer
 
 #####################################################################
 IMPORTANT NEWS:
-- [10/28/17] Reports of auto bans using Mob hacks that speeds up mobs (e.g. Mob Speed Up, Map Speed Up) in conjunction with Hide Skill Animations. Use at your own risk.
+- [10/28/17] Reports of auto bans using Mob hacks that speeds up mobs (e.g. Mob Speed Up, Map Speed Up) in conjunction with Hide Skill Animations/Mob Disarm v2. Do not combine them!
 - [10/28/17] Big changes are coming to the trainer in future updates. See below for more information.
 - [10/23/17] Reports of auto bans for Kanna class. Avoid playing a Kanna at this time.
 - [10/23/17] Reports of Generic FMA causing auto bans on certain classes (Blaster, Aran, Lumi, others)! Use at your own risk.
@@ -12,7 +12,7 @@ IMPORTANT NEWS:
 
 If you want to support the trainer, do leave a donation :)
 
-v0.7.8 is now LIVE! Download via trainer thread.
+v0.7.8r1 is now LIVE! Download via trainer thread.
 
 ==================[FUTURE UPDATES]==================
 Simple Trainer has undergone several UI updates and introduced several different functions since the launch of v0.4.9 back in June. In the coming updates, Simple Trainer will be more optimized, including the removal of certain features/hacks. In addition, Simple Trainer will begin to monetize certain aspects such as links to download and redirecting links.
