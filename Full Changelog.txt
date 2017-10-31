@@ -1,3 +1,6 @@
+v0.7.9: (TBA)
+- Choosing "Ignore" when prompted with a newer version will no longer show anymore prompts until the next version is available
+
 v0.7.8r1: (10/30/17)
 - fixed Kami + Loot
 - disabled Full Map Loot and Block Character Movement
