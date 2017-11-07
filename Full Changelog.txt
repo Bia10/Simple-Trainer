@@ -1,6 +1,7 @@
-v0.7.9: (TBA)
+v0.7.9: (Hoping to release this before/during Thanksgiving break)
 - Choosing "Ignore" when prompted with a newer version will no longer show anymore prompts until the next version is available
 - fixed Force Summons to do Normal Attack
+- removed (planned) Auto Cube Function, Thread Spoof, Instant Packet Sender, Map Swim, Map Fly
 
 v0.7.8r1: (10/30/17)
 - fixed Kami + Loot
