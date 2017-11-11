@@ -4,9 +4,6 @@ Welcome to Simple Trainer
 
 #####################################################################
 IMPORTANT NEWS:
-- [11/8/17] Downtime notice for the update to GMS v189.3 can be seen above
-- [10/28/17] Reports of auto bans using Mob hacks that speeds up mobs (e.g. Mob Speed Up, Map Speed Up) in conjunction with Hide Skill Animations/Mob Disarm v2. Do not combine them!
-- [10/23/17] Reports of auto bans for Kanna class. Avoid playing a Kanna at this time.
 - [10/23/17] Reports of Generic FMA causing auto bans on certain classes (Blaster, Aran, Lumi, others)! Use at your own risk.
 - [10/23/17] Orbital Flame FMA may cause auto bans (small maps may be ok; avoid using when over Lv 100). Use at your own risk.
 - [10/23/17] Mob Vac auto bans [for certain classes]! Use at your own risk.
