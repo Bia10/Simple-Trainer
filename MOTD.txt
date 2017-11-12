@@ -2,6 +2,7 @@ Welcome to Simple Trainer
 
 #####################################################################
 IMPORTANT NEWS:
+- [11/12/17] Nexon released a statement concluding no more false bans on kannas. It is uncertain if Monkey Spirits ND is a trigger or not, so use at your own discretion.
 - [10/23/17] Reports of Generic FMA causing auto bans on certain classes (Blaster, Aran, Lumi, others)! Use at your own risk.
 - [10/23/17] Orbital Flame FMA may cause auto bans (small maps may be ok; avoid using when over Lv 100). Use at your own risk.
 - [10/23/17] Mob Vac auto bans [for certain classes]! Use at your own risk.
