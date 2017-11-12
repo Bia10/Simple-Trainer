@@ -1,5 +1,6 @@
-v0.7.9r1: (TBA / low priority fixes)
+v0.7.9r1: (11/11/17)
 - fixed Unlimited Summons + Time and Infinite Blaster Bullets not being disabled with 'Disable All'
+- fixed Generic/Air Hit Mob Vac, Psychic Grab FMA
 
 v0.7.9: (11/11/17)
 - initial update to GMS v189.3
