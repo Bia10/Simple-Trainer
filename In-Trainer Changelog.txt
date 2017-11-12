@@ -1,15 +1,14 @@
 Latest Simple Trainer Changelog
 =============================
 
-v0.7.8r1: (10/30/17)
-- fixed Kami + Loot
-- disabled Full Map Loot and Block Character Movement
-- updated some help hints
+v0.7.9: (11/11/17)
+- initial update to GMS v189.3
+- added Infinite Blaster Bullets (credits gipal)
+- Choosing "Ignore" when prompted with a newer version will no longer show anymore prompts until the next version is available
+- no longer possible to use Vellum Freeze v2 / Mob Disarm v2 or Hide Most Skill Animations with Map/Mob Speed Ups (due to auto bans)
+- disabled Damage Skin Changer
+- removed Auto Cube Function, Thread Spoof, Instant Packet Sender, Map Swim, Map Fly, Full Map Loot, Block Character Movement, Semi Item Vac, Custom Mob Vac
 
-v0.7.8r1 update issues:
-- Force Summons to do Normal Attack (crashes)
-- Full Map Loot (not working; disabled)
+v0.7.9 update issues:
 - Auto Channel (not working as intended)
-- Resolution Changer (not working)
-- Damage Skin Changer (not working)
 - Sprux Kami and Portal Kami (not updated; crashes)
