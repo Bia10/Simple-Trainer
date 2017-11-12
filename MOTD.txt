@@ -1,7 +1,5 @@
 Welcome to Simple Trainer
 
-[DOWNTIME NOTICE] Due to the minor patch on Thursday, November 9, 2017 at PST: 7:00 AM – 10:00 AM, access to Simple Trainer will be blocked during this time. You will no longer be able to use Simple Trainer until it is updated.
-
 #####################################################################
 IMPORTANT NEWS:
 - [10/23/17] Reports of Generic FMA causing auto bans on certain classes (Blaster, Aran, Lumi, others)! Use at your own risk.
@@ -11,15 +9,10 @@ IMPORTANT NEWS:
 
 If you want to support the trainer, do leave a donation :)
 
-v0.7.8r1 is now LIVE! Download via trainer thread.
+v0.7.9 is now LIVE! Download via trainer thread.
 
-==================[FUTURE UPDATES]==================
-Simple Trainer has undergone several UI updates and introduced several different functions since the launch of v0.4.9 back in June. In the coming updates, Simple Trainer will be more optimized, including the removal of certain features/hacks. In addition, Simple Trainer will begin to monetize certain aspects such as links to download and redirecting links.
-
-Support the trainer and read more here: http://twineer.com/8DSf
-
+Read more about upcoming changes to Simple Trainer here: http://twineer.com/8DSf
 If you have feedback for the future of Simple Trainer, leave your suggestion in the trainer's thread.
-====================================================
 
 If you need help:
 - Hover over hacks for hints first
