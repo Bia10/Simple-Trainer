@@ -1,8 +1,9 @@
-v0.7.9: (TBA)
+v0.7.9: (11/11/17)
 - initial update to GMS v189.3
 - added Infinite Blaster Bullets (credits gipal)
 - Choosing "Ignore" when prompted with a newer version will no longer show anymore prompts until the next version is available
 - no longer possible to use Vellum Freeze v2 / Mob Disarm v2 or Hide Most Skill Animations with Map/Mob Speed Ups (due to auto bans)
+- disabled Damage Skin Changer
 - removed Auto Cube Function, Thread Spoof, Instant Packet Sender, Map Swim, Map Fly, Full Map Loot, Block Character Movement, Semi Item Vac, Custom Mob Vac
 
 v0.7.8r1: (10/30/17)
