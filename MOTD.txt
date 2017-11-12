@@ -9,7 +9,7 @@ IMPORTANT NEWS:
 
 If you want to support the trainer, do leave a donation :)
 
-v0.7.9 is now LIVE! Download via trainer thread.
+v0.7.9r1 is now LIVE! Download via trainer thread.
 
 Read more about upcoming changes to Simple Trainer here: http://twineer.com/8DSf
 If you have feedback for the future of Simple Trainer, leave your suggestion in the trainer's thread.
