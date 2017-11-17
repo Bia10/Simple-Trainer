@@ -1,13 +1,19 @@
 Simple Trainer has undergone several UI updates and introduced several different functions since the launch of v0.4.9 back in June. You may not see it, but the trainer is now too full of things. Therefore, in the updates to come, Simple Trainer will be optimizing certain existing functions while removing some relatively un-used hacks. As well, Simple Trainer will also undergo a UI rework some time in the future, along with the renaming of the trainer (not yet decided). In addition, Simple Trainer will begin to monetize certain aspects, including, but not limited to: links to download and redirecting links.
 
 The following features are planned to be optimized:
-- Avoid D/C Ban
-- Disable Vac/SI on Map change
-- Auto Assembler
+-| Avoid D/C Ban
+--- Implement customization options (custom disconnection amount, custom disconnection time frame, terminate client or disable Auto Character only, etc)
+-| Disable Vac/SI on Map change
+--- Implement DupeX to turn off on map change
+--- add all Skill Injection types to disable with map change
+-| Auto Assembler
+--- Implement list to add self-added AA scripts to
+--- Load AA scripts from .txt files
+-| UI rework
+--- Information can be seen globally within the trainer (instead of just in the General tab)
+--- merge certain tabs together (e.g. Block Recv with Others)
 
-The following features are planned to be removed:
-- Auto Cube Equips
-- Mechanic hacks
-- Custom Mob Vac
+Currently done:
+- [Removed] Auto Cube Function, Thread Spoof, Instant Packet Sender, Map Swim, Map Fly, Full Map Loot, Block Character Movement, Semi Item Vac, Custom Mob Vac
 
 If you have feedback for the future of Simple Trainer, leave your suggestion in the trainer's thread.
