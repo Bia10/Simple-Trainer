@@ -1,8 +1,9 @@
 v0.8.0: (TBA)
-- you can now choose "Ignore" for individual auto ban warnings (Warning prompts will no longer show up if you ignore them)
+- you can now "Ignore" individual auto ban warnings (Warning prompts will no longer show up for the current GMS version update if you ignore them)
 - merged 'Block Recv' and 'Packet Sender' tabs with 'Other' tab
 - removed '[Preset] Item Filter' option
 - Memo Pad moved to 'About' tab (cycle About tab modes using the new button)
+- slightly improved trainer initialization speed
 
 v0.7.9r1: (11/11/17)
 - fixed Unlimited Summons + Time and Infinite Blaster Bullets not being disabled with 'Disable All'
