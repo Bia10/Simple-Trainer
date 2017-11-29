@@ -6,7 +6,7 @@ Simple Trainer will not be accessible beginning Wednesday, November 29, 2017 at 
 #####################################################################
 IMPORTANT NEWS:
 - [11/29/17] As obvious as it already is, do not attach Simple Trainer to MapleStory without a bypass. Refrain from keeping Simple Trainer open with an active MapleStory process, too. Otherwise, you risk being auto banned.
-- [11/12/17] Nexon released a statement concluding no more false bans on kannas. It is uncertain if Monkey Spirits ND is a trigger or not, so use at your own discretion.
+- [11/29/17] There are several reports of unexpected and random auto bans circulating around on /r/MapleStory that affects legit players as well. Be cautious as there is no known cause.
 - [10/23/17] Reports of Generic FMA causing auto bans on certain classes (Blaster, Aran, Lumi, others)! Use at your own risk.
 - [10/23/17] Orbital Flame FMA may cause auto bans (small maps may be ok; avoid using when over Lv 100). Use at your own risk.
 - [10/23/17] Mob Vac auto bans [for certain classes]! Use at your own risk.
