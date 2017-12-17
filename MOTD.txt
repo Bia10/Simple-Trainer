@@ -1,24 +1,13 @@
 Welcome to Simple Trainer
 
-[DOWNTIME NOTICE (UPDATED)]
-Simple Trainer will not be accessible beginning Wednesday, November 29, 2017 at 5:00 AM PST due to the game update to GMS v190. The trainer will need to be updated.
-Update: Due to several AoBs broken by this patch, the update will take much longer than expected.
+[NOTICE]
+Simple Trainer is no longer being updated for the time being. Thank you for all the support so far.
 
 #####################################################################
 IMPORTANT NEWS:
-- [11/29/17] As obvious as it already is, do not attach Simple Trainer to MapleStory without a bypass. Refrain from keeping Simple Trainer open with an active MapleStory process, too. Otherwise, you risk being auto banned.
-- [11/29/17] There are several reports of unexpected and random auto bans circulating around on /r/MapleStory that affects legit players as well. Be cautious as there is no known cause.
-- [10/23/17] Reports of Generic FMA causing auto bans on certain classes (Blaster, Aran, Lumi, others)! Use at your own risk.
-- [10/23/17] Orbital Flame FMA may cause auto bans (small maps may be ok; avoid using when over Lv 100). Use at your own risk.
-- [10/23/17] Mob Vac auto bans [for certain classes]! Use at your own risk.
 #####################################################################
 
 If you want to support the trainer, do leave a donation :)
-
-v0.7.9r1 is now LIVE! Download via trainer thread.
-
-Read more about upcoming changes to Simple Trainer here: http://twineer.com/8DSf
-If you have feedback for the future of Simple Trainer, leave your suggestion in the trainer's thread.
 
 If you need help:
 - Hover over hacks for hints first
