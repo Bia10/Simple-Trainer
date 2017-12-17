@@ -1,3 +1,5 @@
-This version of Simple Trainer does not support the latest Global MapleStory version. Please be patient while Simple Trainer is updated. A notice will appear the next time you start the trainer if a new version is ready.
+Simple Trainer is no longer being updated for the time being. The latest update(s) broke several hacks in the trainer and it feels incomplete releasing anything half-broken. As the creator, I'm also taking an extended break from all things MapleStory. You can access this build by entering "admin" followed by the build # in the password box (e.g. "admin91" without quotations).
 
-Consider supporting this project by donating via the link found on the trainer thread, or click "Donate" in the top menu of the trainer when it has updated.
+You can use GKTrainer as an alternative when it updates.
+
+Thank you all for your support so far. This trainer has come a long way from where it began and I do hope to continue it once again at a later time.
