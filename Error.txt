@@ -1,3 +1,9 @@
+UPDATE: Simple Trainer's development will be permanently stopped. A new trainer is being created from the ground up, and will take several weeks to several months before an open beta will be released. For more information, visit the [Nexon'd Trainer](https://github.com/md35-gk/Nexond-Trainer) page.
+
+=====
+
+OLDER Notice:
+
 Simple Trainer is no longer being updated for the time being. The latest update(s) broke several hacks in the trainer and it feels incomplete releasing anything half-broken. As the creator, I'm also taking an extended break from all things MapleStory. You can access this build by entering "admin" followed by the build # in the password box (e.g. "admin91" without quotations).
 
 You can use GKTrainer as an alternative when it updates.
