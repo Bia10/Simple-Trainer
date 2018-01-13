@@ -10,3 +10,6 @@ The code for the trainer itself will not be provided.
 Check out the Message of the Day here: https://raw.githubusercontent.com/md35-gk/Simple-Trainer/master/MOTD.txt
 
 You can view the full changelog here: https://raw.githubusercontent.com/md35-gk/Simple-Trainer/master/Full%20Changelog.txt
+
+## Development has ended
+Simple Trainer is no longer in development. Thank you for your support.
