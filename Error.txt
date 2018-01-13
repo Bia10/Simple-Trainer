@@ -1,4 +1,4 @@
-UPDATE: Simple Trainer's development will be permanently stopped. A new trainer is being created from the ground up, and will take several weeks to several months before an open beta will be released. For more information, visit the [Nexon'd Trainer](https://github.com/md35-gk/Nexond-Trainer) page.
+UPDATE: Simple Trainer's development will be permanently stopped. A new trainer is being created from the ground up, and will take several weeks to several months before an open beta will be released. For more information, visit https://github.com/md35-gk/Nexond-Trainer .
 
 =====
 
